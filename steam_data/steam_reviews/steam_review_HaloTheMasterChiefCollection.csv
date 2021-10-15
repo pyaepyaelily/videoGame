@@ -1,92 +1,92 @@
-,recommendationid,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,author.steamid,author.num_games_owned,author.num_reviews,author.playtime_forever,author.playtime_last_two_weeks,author.playtime_at_review,author.last_played
-0,77060903,english,"This is a really fun collection but I must warn people, if you're planning on playing co-op, dont. It has horrendous lag and stuttering and 343 has done nothing to fix the insane bs affecting both cutscenes and gameplay. The actual pvp multiplayer is just fine but the game shouldn't have this issue nearly a year after launch.",1601872261,1601872261,False,0,0,0,0,True,False,False,76561198932615739,70,6,973,973,973,1601872052
-1,77059566,english,dope lol,1601869533,1601869533,True,1,0,0,0,True,False,False,76561198972430297,5,2,836,271,836,1601866923
-2,77059504,english,"its halo man, everyone's played you know what you're getting",1601869417,1601869417,True,1,0,0,0,True,False,False,76561198018357851,112,2,411,411,411,1601869401
-3,77059486,english,"you wear a mask no matter what game you play, it makes you into batman.",1601869392,1601869392,True,0,0,0,0,True,False,False,76561198056615455,108,11,1323,382,1323,1601426901
-4,77059441,english,"DUH, why no?",1601869306,1601869306,True,0,0,0,0,True,False,False,76561198068977277,57,4,680,65,620,1601872876
-5,77058990,english,"Man i didnt expect this to port to Pc i always have been a pc sucker for the past years and not a console guy games like persona and mcc?       a wise protein man once said ""I'VE BEEN WAITING FOR THIS""",1601868398,1601868398,True,0,1,0,0,True,False,False,76561198814265284,9,9,44,44,20,1601872185
-6,77058952,english,"10/10 epic pog
-",1601868333,1601868333,True,0,1,0,0,True,False,False,76561198217527505,137,9,271,271,271,1601868319
-7,77058940,english,<3 the best,1601868301,1601868301,True,1,0,0,0,True,False,False,76561198258727181,126,10,754,15,754,1601871882
-8,77058419,english,the same feel as the classic xbox editions in the 2000s but with a modern twist,1601867328,1601867328,True,1,0,0,0,True,False,False,76561198383898560,14,2,763,732,763,1601866772
-9,77058142,english,love it,1601866781,1601866781,True,2,0,0.528795838356018066,0,True,False,False,76561199061228179,10,1,6167,322,6167,1601856872
-10,77057479,english,"Brought my back to the good ole' days.
+,title,recommendationid,language,review,timestamp_created,timestamp_updated,voted_up,votes_up,votes_funny,weighted_vote_score,comment_count,steam_purchase,received_for_free,written_during_early_access,author.steamid,author.num_games_owned,author.num_reviews,author.playtime_forever,author.playtime_last_two_weeks,author.playtime_at_review,author.last_played
+0,Halo The Master Chief Collection,77060903,english,"This is a really fun collection but I must warn people, if you're planning on playing co-op, dont. It has horrendous lag and stuttering and 343 has done nothing to fix the insane bs affecting both cutscenes and gameplay. The actual pvp multiplayer is just fine but the game shouldn't have this issue nearly a year after launch.",1601872261,1601872261,FALSE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,70,6,973,973,973,1601872052
+1,Halo The Master Chief Collection,77059566,english,dope lol,1601869533,1601869533,TRUE,1,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,5,2,836,271,836,1601866923
+2,Halo The Master Chief Collection,77059504,english,"its halo man, everyone's played you know what you're getting",1601869417,1601869417,TRUE,1,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,112,2,411,411,411,1601869401
+3,Halo The Master Chief Collection,77059486,english,"you wear a mask no matter what game you play, it makes you into batman.",1601869392,1601869392,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,108,11,1323,382,1323,1601426901
+4,Halo The Master Chief Collection,77059441,english,"DUH, why no?",1601869306,1601869306,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,57,4,680,65,620,1601872876
+5,Halo The Master Chief Collection,77058990,english,"Man i didnt expect this to port to Pc i always have been a pc sucker for the past years and not a console guy games like persona and mcc?       a wise protein man once said ""I'VE BEEN WAITING FOR THIS""",1601868398,1601868398,TRUE,0,1,0,0,TRUE,FALSE,FALSE,7.65612E+16,9,9,44,44,20,1601872185
+6,Halo The Master Chief Collection,77058952,english,"10/10 epic pog
+",1601868333,1601868333,TRUE,0,1,0,0,TRUE,FALSE,FALSE,7.65612E+16,137,9,271,271,271,1601868319
+7,Halo The Master Chief Collection,77058940,english,<3 the best,1601868301,1601868301,TRUE,1,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,126,10,754,15,754,1601871882
+8,Halo The Master Chief Collection,77058419,english,the same feel as the classic xbox editions in the 2000s but with a modern twist,1601867328,1601867328,TRUE,1,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,14,2,763,732,763,1601866772
+9,Halo The Master Chief Collection,77058142,english,love it,1601866781,1601866781,TRUE,2,0,0.528795838,0,TRUE,FALSE,FALSE,7.65612E+16,10,1,6167,322,6167,1601856872
+10,Halo The Master Chief Collection,77057479,english,"Brought my back to the good ole' days.
 
-10/10",1601865464,1601865464,True,0,0,0,0,True,False,False,76561198048656902,493,39,2573,344,2573,1600921800
-11,77057385,english,"You know it. You love it. Its Halo. If you don't know it and you are even mildly interested in First Person Shooters, give it a spin. Aside from mild complaints about graphics and whatnot, the PC port holds up astonishingly well to modern gaming standards. Get in here and finish the fight with us.",1601865278,1601865278,True,0,0,0,0,True,False,False,76561198186293121,52,1,2677,862,2642,1601867224
-12,77057275,english,simply the greatest campaign FPS gaming experience of your life. Saddle up and give 'em hell.,1601865112,1601865112,True,0,0,0,0,True,False,False,76561198816418699,18,2,1048,1073,958,1601870445
-13,77057135,english,its halo,1601864831,1601864831,True,0,0,0,0,True,False,False,76561198069027903,73,3,1271,256,1258,1601865639
-14,77056848,english,love halo 3000,1601864331,1601864331,True,0,0,0,0,True,False,False,76561198860925757,15,6,940,940,940,1601863999
-15,77056179,english,"Does anything even need to be said for a positive review of this wonderful game?
+10/10",1601865464,1601865464,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,493,39,2573,344,2573,1600921800
+11,Halo The Master Chief Collection,77057385,english,"You know it. You love it. Its Halo. If you don't know it and you are even mildly interested in First Person Shooters, give it a spin. Aside from mild complaints about graphics and whatnot, the PC port holds up astonishingly well to modern gaming standards. Get in here and finish the fight with us.",1601865278,1601865278,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,52,1,2677,862,2642,1601867224
+12,Halo The Master Chief Collection,77057275,english,simply the greatest campaign FPS gaming experience of your life. Saddle up and give 'em hell.,1601865112,1601865112,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,18,2,1048,1073,958,1601870445
+13,Halo The Master Chief Collection,77057135,english,its halo,1601864831,1601864831,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,73,3,1271,256,1258,1601865639
+14,Halo The Master Chief Collection,77056848,english,love halo 3000,1601864331,1601864331,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,15,6,940,940,940,1601863999
+15,Halo The Master Chief Collection,77056179,english,"Does anything even need to be said for a positive review of this wonderful game?
 
-",1601863023,1601863023,True,0,0,0,0,True,False,False,76561197970678400,33,3,40291,8197,40291,1601860215
-16,77055841,english,You will have to due some tinkering with the graphical settings in nvidia control panel if you have an nvidia card.  Other then that this is Halo.  You either love it or don't.  A ton of content for a small price.,1601862359,1601862359,True,0,0,0,0,True,False,False,76561198148763691,99,31,211,164,211,1601862285
-17,77052989,english,Nice little indie collection,1601856952,1601862076,True,0,0,0,0,True,False,False,76561199059743187,3,1,1261,1261,1261,1601861099
-18,77055489,english,Very good collection,1601861688,1601861688,True,0,0,0,0,True,False,False,76561198371242556,101,4,736,675,736,1601861633
-19,77055210,english,"You get to play as this cool guy called Halo on a ship called the Calendar of August and fight off mutated coronavirus.
+",1601863023,1601863023,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,33,3,40291,8197,40291,1601860215
+16,Halo The Master Chief Collection,77055841,english,You will have to due some tinkering with the graphical settings in nvidia control panel if you have an nvidia card.  Other then that this is Halo.  You either love it or don't.  A ton of content for a small price.,1601862359,1601862359,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,99,31,211,164,211,1601862285
+17,Halo The Master Chief Collection,77052989,english,Nice little indie collection,1601856952,1601862076,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,3,1,1261,1261,1261,1601861099
+18,Halo The Master Chief Collection,77055489,english,Very good collection,1601861688,1601861688,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,101,4,736,675,736,1601861633
+19,Halo The Master Chief Collection,77055210,english,"You get to play as this cool guy called Halo on a ship called the Calendar of August and fight off mutated coronavirus.
 Then you get to play as him again but in space on a rail gun the size of Miami, hand delivering a nuclear weapon while defying all laws of physics.
 Then you get to play as him again but on a forest platter the size of the solar system.
 Then you get to play as a regular guy with a pistol in a rainstorm.
 
-10/10 would drive over aliens with a truck again",1601861173,1601861173,True,0,0,0,0,True,False,False,76561198402272054,21,2,2824,605,2824,1601539230
-20,77054170,english,"Minimal bugs and stuttering, and a great Halo experience!!!!!",1601859233,1601859233,True,0,0,0,0,True,False,False,76561198182503563,22,2,3447,796,3293,1601870475
-21,77053685,english,halo,1601858376,1601858376,True,0,0,0,0,True,False,False,76561198080609032,186,24,11291,1622,11291,1601723868
-22,77053659,english," Master Chief, Masterpiece",1601858318,1601858318,True,0,0,0,0,True,False,False,76561198531193221,83,28,4179,0,4179,1597762429
-23,77053642,english,get your friends together and play some halo,1601858276,1601858276,True,0,0,0,0,True,False,False,76561198274709345,27,2,2569,455,2532,1601859707
-24,77052913,english,"ITS HALO WHAT ELSE DO I NEED TO SAY :D
-",1601856810,1601856810,True,0,0,0,0,True,False,False,76561198117436059,84,1,2489,349,2453,1601859175
-25,77052730,english,"it good
-",1601856444,1601856444,True,0,0,0,0,True,False,False,76561198290594318,47,3,959,28,931,1601859152
-26,77052442,english,it's halo. seriously it's the reason xbox is a thing,1601855849,1601855849,True,0,0,0,0,True,False,False,76561197989964458,334,24,504,504,467,1601865352
-27,77052388,english,yes,1601855766,1601855766,True,1,0,0.523809552192687988,0,True,False,False,76561198143611486,235,83,2676,1156,2555,1601863058
-28,77052134,english,yes,1601855254,1601855254,True,0,0,0,0,True,False,False,76561198863414104,41,10,374,374,374,1601838463
-29,77051730,english,its halo,1601854515,1601854515,True,0,0,0,0,True,False,False,76561198148116785,19,2,1608,1017,1511,1601866163
-30,77051418,english,gud game,1601853961,1601853961,True,0,0,0,0,True,False,False,76561198970007508,8,2,491,491,385,1601861325
-31,77051383,english,very good pls buy,1601853900,1601853900,True,0,0,0,0,True,False,False,76561198121865276,59,2,9314,1715,9221,1601859180
-32,72471459,english,"While the game collection had a buggy launch history from Halo Reach to Halo 2, you can tell that a lot of love and effort is being put into Halo: Master Chief Collection in the long run (bugs are continually being fixed during and after each flight). Since the release of Halo 3 the collection has had great game launches.
+10/10 would drive over aliens with a truck again",1601861173,1601861173,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,21,2,2824,605,2824,1601539230
+20,Halo The Master Chief Collection,77054170,english,"Minimal bugs and stuttering, and a great Halo experience!!!!!",1601859233,1601859233,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,22,2,3447,796,3293,1601870475
+21,Halo The Master Chief Collection,77053685,english,halo,1601858376,1601858376,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,186,24,11291,1622,11291,1601723868
+22,Halo The Master Chief Collection,77053659,english," Master Chief, Masterpiece",1601858318,1601858318,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,83,28,4179,0,4179,1597762429
+23,Halo The Master Chief Collection,77053642,english,get your friends together and play some halo,1601858276,1601858276,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,27,2,2569,455,2532,1601859707
+24,Halo The Master Chief Collection,77052913,english,"ITS HALO WHAT ELSE DO I NEED TO SAY :D
+",1601856810,1601856810,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,84,1,2489,349,2453,1601859175
+25,Halo The Master Chief Collection,77052730,english,"it good
+",1601856444,1601856444,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,47,3,959,28,931,1601859152
+26,Halo The Master Chief Collection,77052442,english,it's halo. seriously it's the reason xbox is a thing,1601855849,1601855849,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,334,24,504,504,467,1601865352
+27,Halo The Master Chief Collection,77052388,english,yes,1601855766,1601855766,TRUE,1,0,0.523809552,0,TRUE,FALSE,FALSE,7.65612E+16,235,83,2676,1156,2555,1601863058
+28,Halo The Master Chief Collection,77052134,english,yes,1601855254,1601855254,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,41,10,374,374,374,1601838463
+29,Halo The Master Chief Collection,77051730,english,its halo,1601854515,1601854515,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,19,2,1608,1017,1511,1601866163
+30,Halo The Master Chief Collection,77051418,english,gud game,1601853961,1601853961,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,8,2,491,491,385,1601861325
+31,Halo The Master Chief Collection,77051383,english,very good pls buy,1601853900,1601853900,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,59,2,9314,1715,9221,1601859180
+32,Halo The Master Chief Collection,72471459,english,"While the game collection had a buggy launch history from Halo Reach to Halo 2, you can tell that a lot of love and effort is being put into Halo: Master Chief Collection in the long run (bugs are continually being fixed during and after each flight). Since the release of Halo 3 the collection has had great game launches.
  
 343 has been hiring well known Halo modders (famous example: Kornman who created Open Sauce for Halo Custom Edition which made a lot of improvements for single player modding possible and MCC's Halo 1  multiplayer has been updated to have synching AI) to work on this collection and Saber Interactive (the creators of Halo Online) to the Halo: MCC team. Halo 3 ODST has Firefight and dedicated servers for it! The older games (such as Halo 1, Halo 2, and Halo 3) have had content added to them (Halo 3 Multiplayer even has 3 brand new weapons based off of Halo 3 ODST, new items added to forge, some cut weapons & vehicles added to Halo 2 Classic multiplayer according to modders, etc) that weren't at all in the original releases (there are also unlockable skins which can be toggled off in the menu for purists out there). 
 
 You are getting a pretty great deal, 6 critically acclaimed games for the starting price of $40 (for reference, the Gearbox port of Halo Combat Evolved was $20 for a decade, all 6 Campaigns alone are well worth the $40). Halo is known to have great 3rd person driving segments, so you can expect fun diverse game play from this collection that anyone can get into.
 
-UPDATE as of September 22 2020: A custom games browser, Input-based Matchmaking, Regional Server Selection, and Cross-Play between Xbox & PC have been confirmed to be in active devlopment and most/all of them will release together at the same time (should debut with Halo 4). Official Mod Tools are still planned but are only in the ""design iteration"" at the moment; don't expect mod tools to release until 2021.",1594432785,1601853041,True,1,0,0,0,True,False,False,76561198003692322,388,4,29594,1723,29594,1601687994
-33,77050675,english,An amazing trip down memory lane,1601852567,1601852567,True,0,0,0,0,True,False,False,76561198405771277,114,2,3036,2599,3036,1601851948
-34,77050120,english,nostalgic,1601851551,1601851551,True,0,0,0,0,True,False,False,76561199094652236,1,1,756,756,670,1601857016
-35,77050072,english,"its pretty good
-",1601851485,1601851485,True,0,0,0,0,True,False,False,76561198414061692,11,3,3002,3002,3002,1601847118
-36,77048889,english,"me enjoy
-",1601849373,1601849373,True,0,0,0,0,True,False,False,76561198800299251,5,2,1509,148,1509,1601849282
-37,77048259,english,Sony may have a lot of exclusive but they don't have this,1601848339,1601848339,True,0,0,0,0,True,True,False,76561198994762514,38,6,594,594,571,1601869706
-38,77047588,english,"Now that all the good games have come out, totally worth the money even if you only want to play the single player campaigns",1601847258,1601847258,True,0,0,0,0,True,False,False,76561198020441541,85,31,4295,422,3984,1601866213
-39,77046960,english,"https://www.halowaypoint.com/en-us/forums/f3681fbc78fa43878c4aec9a63a46224/topics/found-the-cause-of-crackling-sound/acee334b-03f9-46c6-ad6d-8973f6ffca3a/posts
+UPDATE as of September 22 2020: A custom games browser, Input-based Matchmaking, Regional Server Selection, and Cross-Play between Xbox & PC have been confirmed to be in active devlopment and most/all of them will release together at the same time (should debut with Halo 4). Official Mod Tools are still planned but are only in the ""design iteration"" at the moment; don't expect mod tools to release until 2021.",1594432785,1601853041,TRUE,1,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,388,4,29594,1723,29594,1601687994
+33,Halo The Master Chief Collection,77050675,english,An amazing trip down memory lane,1601852567,1601852567,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,114,2,3036,2599,3036,1601851948
+34,Halo The Master Chief Collection,77050120,english,nostalgic,1601851551,1601851551,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,1,1,756,756,670,1601857016
+35,Halo The Master Chief Collection,77050072,english,"its pretty good
+",1601851485,1601851485,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,11,3,3002,3002,3002,1601847118
+36,Halo The Master Chief Collection,77048889,english,"me enjoy
+",1601849373,1601849373,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,5,2,1509,148,1509,1601849282
+37,Halo The Master Chief Collection,77048259,english,Sony may have a lot of exclusive but they don't have this,1601848339,1601848339,TRUE,0,0,0,0,TRUE,TRUE,FALSE,7.65612E+16,38,6,594,594,571,1601869706
+38,Halo The Master Chief Collection,77047588,english,"Now that all the good games have come out, totally worth the money even if you only want to play the single player campaigns",1601847258,1601847258,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,85,31,4295,422,3984,1601866213
+39,Halo The Master Chief Collection,77046960,english,"https://www.halowaypoint.com/en-us/forums/f3681fbc78fa43878c4aec9a63a46224/topics/found-the-cause-of-crackling-sound/acee334b-03f9-46c6-ad6d-8973f6ffca3a/posts
 in regards to unplayable audio quality and crackle.
 
 ""44.1khz doesn't fix the problem completely which in my case did not. So I decided to spend one hours in front of a debugger working out what the REAL problem with the audio is. Turns out that it is a very trivial problem to debug.The problem with the audio is that 343i are using callbacks that are taking too long to complete. As a result, the audio engine threads ends up maxing out its allocated CPU resources. When that happens, the callbacks end up stealing precious CPU time from the audio engine and as a consequence, the audio engine can no longer process audio in a timely manner. You can see the results of this poor design with a piece of software called process explorer.The fix is simple. Put the damn callbacks in a separate thread and signal the thread as required. If 343i are competent, they likely already know which callbacks are slowing down the audio engine. This solution would take them not even a day to implement correctly.
 Relevant MSDN article:
 https://docs.microsoft.com/en-us/windows/win32/xaudio2/xaudio2-callbacks
-How do I know that it is the callbacks that are doing this? The callbacks are partially responsible for the dialogue in the game. When I skipped over the callbacks using a debugger, most of the dialogue vanished as expected along with the heavy CPU resource usage and thus, the bug itself disappeared completely. ""-RandomJerry9512",1601846197,1601846197,False,0,0,0,0,True,False,False,76561198035792918,701,49,409,53,409,1601846038
-40,77046519,english,"MasterChef is a competitive cooking show produced by Endemol Shine UK and Banijay and it broadcasts in 60 countries around the world. In the UK, it is produced by the BBC. The show initially ran from 1990 to 2001 and was revived in 2005 as MasterChef Goes Large. The revival featured a new format devised by Franc Roddam and John Silver, with Karen Ross producing. In 2008, the name was changed back to MasterChef but the format remained unchanged. 
+How do I know that it is the callbacks that are doing this? The callbacks are partially responsible for the dialogue in the game. When I skipped over the callbacks using a debugger, most of the dialogue vanished as expected along with the heavy CPU resource usage and thus, the bug itself disappeared completely. ""-RandomJerry9512",1601846197,1601846197,FALSE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,701,49,409,53,409,1601846038
+40,Halo The Master Chief Collection,77046519,english,"MasterChef is a competitive cooking show produced by Endemol Shine UK and Banijay and it broadcasts in 60 countries around the world. In the UK, it is produced by the BBC. The show initially ran from 1990 to 2001 and was revived in 2005 as MasterChef Goes Large. The revival featured a new format devised by Franc Roddam and John Silver, with Karen Ross producing. In 2008, the name was changed back to MasterChef but the format remained unchanged. 
 
-In the original series, amateur cooks competed for the title of Master Chef. The show featured nine rounds leading up to three semifinals and a final. In each round, three contestants were tasked with preparing a gourmet three-course meal in under two hours. The contestants could choose the meal, although there was a price limit on ingredients. ""Everyday"" ingredients and equipment were provided, and contestants could also bring up to five ""specialty"" ingredients or utensils.",1601845511,1601845511,True,0,1,0,0,True,False,False,76561197981263671,1356,17,227,227,98,1601854066
-41,77046348,english,fucjking green  man,1601845242,1601845242,True,0,0,0,0,True,False,False,76561198410446740,17,6,9046,3553,8709,1601872767
-42,77046307,english,great collection that takes me back to middle school,1601845184,1601845184,True,0,0,0,0,True,False,False,76561198142773056,52,1,921,921,725,1601856967
-43,59690612,english,"you telling me this trash was people's ""childhoods""? LMFAOO",1576115654,1601844255,False,0,0,0,0,True,False,False,76561198120858574,558,11,942,52,933,1601844159
-44,59195787,english,"It plays exactly as you remember it. So get it for that.
+In the original series, amateur cooks competed for the title of Master Chef. The show featured nine rounds leading up to three semifinals and a final. In each round, three contestants were tasked with preparing a gourmet three-course meal in under two hours. The contestants could choose the meal, although there was a price limit on ingredients. ""Everyday"" ingredients and equipment were provided, and contestants could also bring up to five ""specialty"" ingredients or utensils.",1601845511,1601845511,TRUE,0,1,0,0,TRUE,FALSE,FALSE,7.65612E+16,1356,17,227,227,98,1601854066
+41,Halo The Master Chief Collection,77046348,english,fucjking green  man,1601845242,1601845242,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,17,6,9046,3553,8709,1601872767
+42,Halo The Master Chief Collection,77046307,english,great collection that takes me back to middle school,1601845184,1601845184,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,52,1,921,921,725,1601856967
+43,Halo The Master Chief Collection,59690612,english,"you telling me this trash was people's ""childhoods""? LMFAOO",1576115654,1601844255,FALSE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,558,11,942,52,933,1601844159
+44,Halo The Master Chief Collection,59195787,english,"It plays exactly as you remember it. So get it for that.
 
 Don't get it for multiplayer. 
-They've sucked the life out of multiplayer and replace it with a one size fits all approach.",1575438116,1601844114,False,0,0,0,0,True,False,False,76561198086509065,80,14,3511,404,3511,1600865087
-45,77045258,english,"""I would have been your daddy, but the dog beat me over the fence!"" -Sarge Johnson",1601843513,1601843513,True,0,0,0,0,True,False,False,76561198164475552,100,14,1154,0,1154,1598843033
-46,77045187,english,"Perfect game that will let you relive your childhood to the fullest. Only negative aspect of Halo mcc would be multiplayer lag. It happens quite often, but only in short intervals. Otherwise, amazing game with a ton of content for any player.",1601843392,1601843392,True,0,0,0,0,True,False,False,76561198049439712,128,3,5181,719,5181,1601700997
-47,77045157,english,"Very fun game, lots to do",1601843347,1601843347,True,0,0,0,0,True,False,False,76561198881367225,12,2,1253,1253,968,1601865714
-48,77045032,english,The co-op is broken beyond playable. Its a shame because most of the fun was from co-op,1601843170,1601843170,False,2,0,0.53125,0,True,False,False,76561198093039459,58,2,1282,123,1160,1601849581
-49,77043400,english,best FPS game ever made and ever likely to be made,1601840819,1601840819,True,0,0,0,0,True,False,False,76561198979859309,21,4,350,349,182,1601856775
-50,77041998,english,It's halo and it's really good that's all i'm saying,1601838966,1601838966,True,0,0,0,0,True,False,False,76561198799382545,16,1,631,631,537,1601869133
-51,59306351,english,"Pog, Halo 3.",1575581904,1601838877,True,0,0,0,0,True,False,False,76561198011250153,317,14,3147,627,3017,1601846660
-52,77041604,english,"Very fun. Brings back memories
+They've sucked the life out of multiplayer and replace it with a one size fits all approach.",1575438116,1601844114,FALSE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,80,14,3511,404,3511,1600865087
+45,Halo The Master Chief Collection,77045258,english,"""I would have been your daddy, but the dog beat me over the fence!"" -Sarge Johnson",1601843513,1601843513,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,100,14,1154,0,1154,1598843033
+46,Halo The Master Chief Collection,77045187,english,"Perfect game that will let you relive your childhood to the fullest. Only negative aspect of Halo mcc would be multiplayer lag. It happens quite often, but only in short intervals. Otherwise, amazing game with a ton of content for any player.",1601843392,1601843392,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,128,3,5181,719,5181,1601700997
+47,Halo The Master Chief Collection,77045157,english,"Very fun game, lots to do",1601843347,1601843347,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,12,2,1253,1253,968,1601865714
+48,Halo The Master Chief Collection,77045032,english,The co-op is broken beyond playable. Its a shame because most of the fun was from co-op,1601843170,1601843170,FALSE,2,0,0.53125,0,TRUE,FALSE,FALSE,7.65612E+16,58,2,1282,123,1160,1601849581
+49,Halo The Master Chief Collection,77043400,english,best FPS game ever made and ever likely to be made,1601840819,1601840819,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,21,4,350,349,182,1601856775
+50,Halo The Master Chief Collection,77041998,english,It's halo and it's really good that's all i'm saying,1601838966,1601838966,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,16,1,631,631,537,1601869133
+51,Halo The Master Chief Collection,59306351,english,"Pog, Halo 3.",1575581904,1601838877,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,317,14,3147,627,3017,1601846660
+52,Halo The Master Chief Collection,77041604,english,"Very fun. Brings back memories
 
-",1601838452,1601838452,True,0,0,0,0,True,False,False,76561197981288906,11,1,1282,487,1005,1601859229
-53,77040816,english,Good Game,1601837366,1601837366,True,0,0,0,0,True,False,False,76561198060426159,137,5,3068,1013,2992,1601845440
-54,60414393,english,"Edit: I used to have this review hold my full reviews of each Halo game, but I hit the character limit after trying to include 2's. Therefore, full reviews can be found on the specific DLC's store page. Here I'll talk about MCC in general and include a brief summary of my feelings towards each halo.
+",1601838452,1601838452,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,11,1,1282,487,1005,1601859229
+53,Halo The Master Chief Collection,77040816,english,Good Game,1601837366,1601837366,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,137,5,3068,1013,2992,1601845440
+54,Halo The Master Chief Collection,60414393,english,"Edit: I used to have this review hold my full reviews of each Halo game, but I hit the character limit after trying to include 2's. Therefore, full reviews can be found on the specific DLC's store page. Here I'll talk about MCC in general and include a brief summary of my feelings towards each halo.
 
 Halo Reach: My favorite. It's the first one I played, but damn. The story is great, the gameplay is good, and the multiplayer is great.
 
@@ -99,21 +99,19 @@ Halo 3: A very good conclusion to the original trilogy. Story shifts to more dra
 Halo 3 ODST: Experiements with Halo's gameplay formula by featuring roaming ""street"" missions in between the ""regular"" missions. The street missions are completely different than anything else in the series. They're semi-open world, take place at night, and are atmospheric and lonely. I love them, and would highly recommend this game based on these missions alone. Gameplay in other regards is similar to Halo 3. Only issue I have is that the tone is inconsistent between the street levels and the regular levels.
 
 MCC itself:
-There have been no egregious porting problems that I've encountered; nothing game breaking. Some of the more major problems have (eventually) been fixed. Updates are slow, but they do come. The introduction of challenges and forge makes this game much better now than it was at launch. I would highly recommend this game. One issue is the Co-op latency. In general, when playing co-op, the non-host players will likely have to deal with noticable input delay.",1577135137,1601836638,True,0,0,0,0,True,False,False,76561198088570237,149,78,17840,640,17840,1601705664
-55,77039875,english,Halo,1601836163,1601836163,True,0,0,0.490970641374588013,0,True,False,False,76561198424171128,24,3,2143,686,1890,1601860360
-56,77039352,english,Great games !!!,1601835464,1601835464,True,0,0,0.490970641374588013,0,True,False,False,76561197972877036,83,1,3673,821,3673,1601833998
-57,77038957,english,Very good rice,1601835017,1601835017,True,0,0,0.490970641374588013,0,True,False,False,76561198011656564,135,5,541,541,515,1601840771
-58,59443257,english,"There's something calming about this game. After a bad day and/or multiple bad matches of [INSERT TRENDY GAME HERE], I always boot up MCC and either play the Campaign, Multy or Firefight or just listen to the menu music to relax my nerves.
+There have been no egregious porting problems that I've encountered; nothing game breaking. Some of the more major problems have (eventually) been fixed. Updates are slow, but they do come. The introduction of challenges and forge makes this game much better now than it was at launch. I would highly recommend this game. One issue is the Co-op latency. In general, when playing co-op, the non-host players will likely have to deal with noticable input delay.",1577135137,1601836638,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,149,78,17840,640,17840,1601705664
+55,Halo The Master Chief Collection,77039875,english,Halo,1601836163,1601836163,TRUE,0,0,0.490970641,0,TRUE,FALSE,FALSE,7.65612E+16,24,3,2143,686,1890,1601860360
+56,Halo The Master Chief Collection,77039352,english,Great games !!!,1601835464,1601835464,TRUE,0,0,0.490970641,0,TRUE,FALSE,FALSE,7.65612E+16,83,1,3673,821,3673,1601833998
+57,Halo The Master Chief Collection,77038957,english,Very good rice,1601835017,1601835017,TRUE,0,0,0.490970641,0,TRUE,FALSE,FALSE,7.65612E+16,135,5,541,541,515,1601840771
+58,Halo The Master Chief Collection,59443257,english,"There's something calming about this game. After a bad day and/or multiple bad matches of [INSERT TRENDY GAME HERE], I always boot up MCC and either play the Campaign, Multy or Firefight or just listen to the menu music to relax my nerves.
 
-If you're planning on buying, buy the whole collection. You won't regret it.",1575747033,1601834929,True,0,0,0,0,True,False,False,76561198374876082,144,8,7352,1466,7311,1601836217
-59,77038161,english,the games are good but the optimization is a little poop,1601833971,1601833971,True,0,0,0.490970641374588013,0,True,False,False,76561198055163739,129,12,2906,1759,2733,1601867292
-60,76099958,english,"I'm one of those people who love to keep friendly AIs alive till the end of the level (to the point where I revert to checkpoint if one dies). This game made me regret that.
+If you're planning on buying, buy the whole collection. You won't regret it.",1575747033,1601834929,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,144,8,7352,1466,7311,1601836217
+59,Halo The Master Chief Collection,77038161,english,the games are good but the optimization is a little poop,1601833971,1601833971,TRUE,0,0,0.490970641,0,TRUE,FALSE,FALSE,7.65612E+16,129,12,2906,1759,2733,1601867292
+60,Halo The Master Chief Collection,76099958,english,"I'm one of those people who love to keep friendly AIs alive till the end of the level (to the point where I revert to checkpoint if one dies). This game made me regret that.
 
-btw game's great, buy it",1600309513,1601833486,True,0,0,0,0,True,False,False,76561198000973311,346,5,9837,1832,9580,1601858641
-61,77037506,english,"Ive always enjoyed playing halo on xbox, PLaying it on PC is like playing a whole new game  it feels so smooth and fluid to play at 144hz 1440p with a maxed out fov!",1601833129,1601833129,True,0,0,0,0,True,False,False,76561198036349477,36,1,1249,1094,1249,1601830686
-62,77036818,english,"fun game
-
-
+btw game's great, buy it",1600309513,1601833486,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,346,5,9837,1832,9580,1601858641
+61,Halo The Master Chief Collection,77037506,english,"Ive always enjoyed playing halo on xbox, PLaying it on PC is like playing a whole new game  it feels so smooth and fluid to play at 144hz 1440p with a maxed out fov!",1601833129,1601833129,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,36,1,1249,1094,1249,1601830686
+62,Halo The Master Chief Collection,77036818,english,"fun game
 
 
 
@@ -122,8 +120,10 @@ btw game's great, buy it",1600309513,1601833486,True,0,0,0,0,True,False,False,76
 
 
 
-thats all i need to say",1601832294,1601832294,True,0,0,0.490970641374588013,0,True,False,False,76561198225867396,41,3,1377,696,837,1601864788
-63,77036500,english,"Think about this, it's 2008 and you and your friend are playing on your Xbox 360 and a small 16"" TV split screen. You hear the iconic Halo 3 main menu chorus playing for the first time, you know in your still young mind that this game will be special.
+
+
+thats all i need to say",1601832294,1601832294,TRUE,0,0,0.490970641,0,TRUE,FALSE,FALSE,7.65612E+16,41,3,1377,696,837,1601864788
+63,Halo The Master Chief Collection,77036500,english,"Think about this, it's 2008 and you and your friend are playing on your Xbox 360 and a small 16"" TV split screen. You hear the iconic Halo 3 main menu chorus playing for the first time, you know in your still young mind that this game will be special.
 
 You spend countless of hours of your adolescence playing Halo 3, Halo 3:ODST, Halo Reach, going back to play Halo 2, and then Halo 4. You spend countless of hours creating maps on forge, anything from ""trash collector"" maps where players dodge objects being flung at them to race tracks designed with explosives.
 
@@ -131,49 +131,49 @@ Now imagine you no longer have your Xbox 360, the last time you logged in, all o
 
 You get to relive that same era, only now it stands on the prowess of your PC, where your adult self can experience once again those glorious days of grinding to achieve a legendary run by yourself on Halo's campaign, play multiplayer again, experience Halo in all of its true glory.
 
-9.2/10, outside of the random (sometimes very annoying) bug, this was an amazing remastered collection and brought but much joy.",1601831928,1601831928,True,1,0,0.513108611106872559,0,True,False,False,76561198139550779,46,7,1493,15,1477,1601837569
-64,77036432,english,"it's just awesome
-",1601831854,1601831854,True,0,0,0.490970641374588013,0,True,False,False,76561198057303893,5,1,257,257,247,1601834644
-65,77036377,english,"Nice geme, gibb Hallo 4",1601831789,1601831789,True,0,0,0.490970641374588013,0,True,False,False,76561198069481232,123,1,1894,83,1851,1601834943
-66,77034997,english,"Classic halo experience, frequent updates, plenty of content. Would recommend to new and veteran players of the series.",1601830117,1601830117,True,0,0,0,0,True,False,False,76561198118956124,20,1,8934,1306,8934,1601828670
-67,69734816,english,"----------------------------------PSA TO ALL OCEANIC REGION PLAYERS-------------------------
+9.2/10, outside of the random (sometimes very annoying) bug, this was an amazing remastered collection and brought but much joy.",1601831928,1601831928,TRUE,1,0,0.513108611,0,TRUE,FALSE,FALSE,7.65612E+16,46,7,1493,15,1477,1601837569
+64,Halo The Master Chief Collection,77036432,english,"it's just awesome
+",1601831854,1601831854,TRUE,0,0,0.490970641,0,TRUE,FALSE,FALSE,7.65612E+16,5,1,257,257,247,1601834644
+65,Halo The Master Chief Collection,77036377,english,"Nice geme, gibb Hallo 4",1601831789,1601831789,TRUE,0,0,0.490970641,0,TRUE,FALSE,FALSE,7.65612E+16,123,1,1894,83,1851,1601834943
+66,Halo The Master Chief Collection,77034997,english,"Classic halo experience, frequent updates, plenty of content. Would recommend to new and veteran players of the series.",1601830117,1601830117,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,20,1,8934,1306,8934,1601828670
+67,Halo The Master Chief Collection,69734816,english,"----------------------------------PSA TO ALL OCEANIC REGION PLAYERS-------------------------
 
-343 in all their wisdom at the release of ODST changed the back up server for our region from south east asia to US west while still possible to get games in the oceanic region its rare so we are stuck playing on 200+ ping servers until the release of halo 4 with the region selector.",1590338492,1601829740,False,0,0,0,0,True,False,False,76561198071048450,269,15,10518,1240,10518,1601269082
-68,77033903,english,I think Halo is a pretty cool guy. Eh kills aleins and doesn't afraid of anything.,1601828726,1601828726,True,0,1,0,0,True,False,False,76561198012791773,519,94,1844,21,1844,1600977602
-69,59461131,english,"Great game from the start, and the devs keep adding feature after feature at no extra cost and are being very upfront about everything they are doing. Worth it's money hands down.",1575767882,1601828660,True,0,0,0,0,True,False,False,76561198362125307,56,2,2748,200,2748,1601705334
-70,77032913,english,"I like everything about this, this is what 2020 needed.",1601827475,1601827475,True,1,0,0.513108611106872559,0,True,False,False,76561198173878027,14,4,1082,1082,1024,1601830997
-71,77032190,english,"Right in the feels
-",1601826606,1601826606,True,0,0,0,0,True,False,False,76561198152597711,76,2,674,92,608,1601830176
-72,77032025,english,Give orange me give eat orange me eat orange give me eat orange give me you.,1601826410,1601826410,True,0,0,0,0,True,False,False,76561198357991586,28,8,3702,978,3650,1601830943
-73,77030947,english,Very fun,1601825089,1601825089,True,0,0,0,0,True,False,False,76561199005753612,11,3,348,57,341,1601825528
-74,77030478,english,"What can I say, its Halo, its a masterpiece",1601824485,1601824485,True,1,0,0.514285683631896973,0,True,False,False,76561198288632961,41,4,9414,3409,9024,1601866862
-75,77029997,english,Reasonable price And hell of a game story. I've completed halo before on xbox now completing again on PC as well.,1601823917,1601823917,True,0,0,0,0,True,False,False,76561198982995855,6,1,309,309,204,1601847807
-76,75030818,english,Overall I do not recommend this collection. If you just want to play campaign then sure go ahead and buy it. If you want to enjoy multiplayer then don't. Not only does multiplayer have a sheer lack of players but it also is infested with aimbot for controller users which does make a difference to the gameplay. Not too mention Halo 3 has severe issues with hit reg which make it not fun at all. This collection has had nonstop issues and bugs since the start even though they swore they would do it right on pc but that was all lies. In fact campaign should really only be done solo as it has pretty bad latency in online coop. Custom games was fun for a bit but there's still no official game browser to play it online and there's no easy to use file share or workshop to quickly find and download maps and game modes. The time has frankly passed to play halo 1 and 2 online. Since most of these games populations only mattered in the first month or two they were out. Your best bet with those two is to play the original pc ports which can be found online for free. Those are better in almost every way. The original trilogy and odst are still great games but this has not been the best experience for them. Although some other elements of them have not aged as well as others. This collection could of been handled a lot better. But it's obvious they do not care.,1598576232,1601823575,False,3,0,0.563492059707641602,0,True,False,False,76561198206915751,364,95,15374,418,15374,1601266944
-77,77027916,english,"I've been playing Halo since the original xbox, I remember being absolutely blown away as a kid when i first played Halo: CE. This game has all my best memories of gaming all in one package. to replay all the campaigns is such a joy and i enjoy it just as much as i did back then. Theres also multiplayer which ive already put many hours of fun into. Simply put, if youre a Halo fan then the master chief collection is a MUST. A great service to all fans of halo :)",1601821506,1601821506,True,0,0,0,0,True,False,False,76561199088097138,5,1,4008,2399,3915,1601852686
-78,59165323,english,"Love MCC have around 300 hours on console. Before switched to PC as yeah the Master Race etc. The Matchmaking times take too long for Halo 2 comp and thats one of the reasons i CBA with the PC version until Cross-play is added.
+343 in all their wisdom at the release of ODST changed the back up server for our region from south east asia to US west while still possible to get games in the oceanic region its rare so we are stuck playing on 200+ ping servers until the release of halo 4 with the region selector.",1590338492,1601829740,FALSE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,269,15,10518,1240,10518,1601269082
+68,Halo The Master Chief Collection,77033903,english,I think Halo is a pretty cool guy. Eh kills aleins and doesn't afraid of anything.,1601828726,1601828726,TRUE,0,1,0,0,TRUE,FALSE,FALSE,7.65612E+16,519,94,1844,21,1844,1600977602
+69,Halo The Master Chief Collection,59461131,english,"Great game from the start, and the devs keep adding feature after feature at no extra cost and are being very upfront about everything they are doing. Worth it's money hands down.",1575767882,1601828660,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,56,2,2748,200,2748,1601705334
+70,Halo The Master Chief Collection,77032913,english,"I like everything about this, this is what 2020 needed.",1601827475,1601827475,TRUE,1,0,0.513108611,0,TRUE,FALSE,FALSE,7.65612E+16,14,4,1082,1082,1024,1601830997
+71,Halo The Master Chief Collection,77032190,english,"Right in the feels
+",1601826606,1601826606,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,76,2,674,92,608,1601830176
+72,Halo The Master Chief Collection,77032025,english,Give orange me give eat orange me eat orange give me eat orange give me you.,1601826410,1601826410,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,28,8,3702,978,3650,1601830943
+73,Halo The Master Chief Collection,77030947,english,Very fun,1601825089,1601825089,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,11,3,348,57,341,1601825528
+74,Halo The Master Chief Collection,77030478,english,"What can I say, its Halo, its a masterpiece",1601824485,1601824485,TRUE,1,0,0.514285684,0,TRUE,FALSE,FALSE,7.65612E+16,41,4,9414,3409,9024,1601866862
+75,Halo The Master Chief Collection,77029997,english,Reasonable price And hell of a game story. I've completed halo before on xbox now completing again on PC as well.,1601823917,1601823917,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,6,1,309,309,204,1601847807
+76,Halo The Master Chief Collection,75030818,english,Overall I do not recommend this collection. If you just want to play campaign then sure go ahead and buy it. If you want to enjoy multiplayer then don't. Not only does multiplayer have a sheer lack of players but it also is infested with aimbot for controller users which does make a difference to the gameplay. Not too mention Halo 3 has severe issues with hit reg which make it not fun at all. This collection has had nonstop issues and bugs since the start even though they swore they would do it right on pc but that was all lies. In fact campaign should really only be done solo as it has pretty bad latency in online coop. Custom games was fun for a bit but there's still no official game browser to play it online and there's no easy to use file share or workshop to quickly find and download maps and game modes. The time has frankly passed to play halo 1 and 2 online. Since most of these games populations only mattered in the first month or two they were out. Your best bet with those two is to play the original pc ports which can be found online for free. Those are better in almost every way. The original trilogy and odst are still great games but this has not been the best experience for them. Although some other elements of them have not aged as well as others. This collection could of been handled a lot better. But it's obvious they do not care.,1598576232,1601823575,FALSE,3,0,0.56349206,0,TRUE,FALSE,FALSE,7.65612E+16,364,95,15374,418,15374,1601266944
+77,Halo The Master Chief Collection,77027916,english,"I've been playing Halo since the original xbox, I remember being absolutely blown away as a kid when i first played Halo: CE. This game has all my best memories of gaming all in one package. to replay all the campaigns is such a joy and i enjoy it just as much as i did back then. Theres also multiplayer which ive already put many hours of fun into. Simply put, if youre a Halo fan then the master chief collection is a MUST. A great service to all fans of halo :)",1601821506,1601821506,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,5,1,4008,2399,3915,1601852686
+78,Halo The Master Chief Collection,59165323,english,"Love MCC have around 300 hours on console. Before switched to PC as yeah the Master Race etc. The Matchmaking times take too long for Halo 2 comp and thats one of the reasons i CBA with the PC version until Cross-play is added.
 
 Great Value for Money all we need is Halo 5 added and i know 4 is coming shortly. And then all the TRUE Halo games will be on PC. 
 
 
 Cross-play cant come soon enough.
 
-~The Demon Lord",1575401162,1601819942,True,0,0,0,0,True,False,False,76561198379423963,35,14,814,57,768,1601831804
-79,77025153,english,"HALO 3 ALL DAY, really hoping next halo is made near the same game mechanics",1601817986,1601817986,True,0,0,0,0,True,False,False,76561198130328470,21,1,1812,0,1812,1596354671
-80,72691227,english,Halo 2 on Legendary changed me,1594753269,1601814716,True,0,0,0,0,True,True,False,76561198010157479,232,61,7099,1975,7099,1601813949
-81,61628970,english,If you need me to tell you why a collection with 5 of the greatest games ever made (I don't count 4) in one package for £30 is a godsend then please leave.,1578669405,1601809798,True,0,0,0,0,True,False,False,76561198935685868,7,3,17542,1176,17347,1601846860
-82,77017733,english,"Splendid
-",1601807313,1601807313,True,0,0,0,0,True,False,False,76561198992583462,62,14,250,215,250,1601807289
-83,77016824,english,gud gaem,1601805924,1601805924,True,0,0,0,0,True,False,False,76561198347693630,24,8,686,686,676,1601808531
-84,77015843,english,"I did not have Halo as a part of my childhood, but I certainly love playing these games regardless. this collection lets less fanatic fans of the Halo franchise experience every game in one place. the U.I is also quite good, making the navigation of Halo's world a breeze. Ultimately a great package, that is very worth buying normally, and a no-brainer on sale.",1601804432,1601804432,True,1,0,0.504098355770111084,0,True,False,False,76561198420982002,44,7,4066,2169,3592,1601871182
-85,77015360,english,Master Chief is more green than Missile Long Ramp,1601803647,1601803647,True,0,0,0,0,True,False,False,76561198063935584,530,39,3518,558,3518,1601322229
-86,77015090,english,"Love the work done by 343.....
+~The Demon Lord",1575401162,1601819942,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,35,14,814,57,768,1601831804
+79,Halo The Master Chief Collection,77025153,english,"HALO 3 ALL DAY, really hoping next halo is made near the same game mechanics",1601817986,1601817986,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,21,1,1812,0,1812,1596354671
+80,Halo The Master Chief Collection,72691227,english,Halo 2 on Legendary changed me,1594753269,1601814716,TRUE,0,0,0,0,TRUE,TRUE,FALSE,7.65612E+16,232,61,7099,1975,7099,1601813949
+81,Halo The Master Chief Collection,61628970,english,If you need me to tell you why a collection with 5 of the greatest games ever made (I don't count 4) in one package for £30 is a godsend then please leave.,1578669405,1601809798,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,7,3,17542,1176,17347,1601846860
+82,Halo The Master Chief Collection,77017733,english,"Splendid
+",1601807313,1601807313,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,62,14,250,215,250,1601807289
+83,Halo The Master Chief Collection,77016824,english,gud gaem,1601805924,1601805924,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,24,8,686,686,676,1601808531
+84,Halo The Master Chief Collection,77015843,english,"I did not have Halo as a part of my childhood, but I certainly love playing these games regardless. this collection lets less fanatic fans of the Halo franchise experience every game in one place. the U.I is also quite good, making the navigation of Halo's world a breeze. Ultimately a great package, that is very worth buying normally, and a no-brainer on sale.",1601804432,1601804432,TRUE,1,0,0.504098356,0,TRUE,FALSE,FALSE,7.65612E+16,44,7,4066,2169,3592,1601871182
+85,Halo The Master Chief Collection,77015360,english,Master Chief is more green than Missile Long Ramp,1601803647,1601803647,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,530,39,3518,558,3518,1601322229
+86,Halo The Master Chief Collection,77015090,english,"Love the work done by 343.....
 
 Just one request and it is very important. If you guys at 343 are reading this make cross play the top priority.
 Earlier competitive matchmaking was very difficult to find, then it became impossible, the same has happened with 8v8.
 As of now only 4v4 matchmaking is working. I assume with cross play it will be improved.
 
-I miss driving around the big maps with warthog, tanks and all the other vehicles blasting people. I just cant do it anymore and it's depressing. Please bring the fun back.",1601803254,1601803254,True,0,0,0,0,True,False,False,76561198264356511,14,1,14514,1295,14375,1601827746
-87,77014741,english,"Halo CE, looks good, plays good, and still has some of that early 2000's jank in it's DNA.
+I miss driving around the big maps with warthog, tanks and all the other vehicles blasting people. I just cant do it anymore and it's depressing. Please bring the fun back.",1601803254,1601803254,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,14,1,14514,1295,14375,1601827746
+87,Halo The Master Chief Collection,77014741,english,"Halo CE, looks good, plays good, and still has some of that early 2000's jank in it's DNA.
 Halo 2, one of the best single player campaigns in FPS history in my opinion.
 Halo 3, good solid shooter with a good enough story and a few really good set pieces.
 Halo Reach, plays a bit different than the first three games but is overall solid with a pretty good story.
@@ -181,58 +181,58 @@ Halo Reach, plays a bit different than the first three games but is overall soli
 Don't really play multiplayer so I can't weigh in there.
 
 Games all run just fine on Windows 10. Not a single performance issue to speak of.
-My only real complaint in the Halo games is sometimes the AI can be brain dead, but that's about 15% of the time.",1601802683,1601802683,True,0,0,0,0,True,False,False,76561198128120846,261,97,2464,155,2309,1601811446
-88,77014653,english,Its Halo one of the best FPS franchises ever made and my personal favorite FPS series its worth the full price,1601802538,1601802538,True,0,0,0,0,True,False,False,76561198276759359,180,43,377,377,251,1601863747
-89,77013067,english,"buggy fucking mess and feels like its being run through three different games services all at once, but it lets me play halo with my bros without having to go back to using a controller to aim i guess",1601800016,1601800016,True,0,0,0,0,True,False,False,76561198272672294,39,9,1848,293,1848,1601702558
-90,77012884,english,"Everything I expected it to be, after playing a couple multiplayer games upon release and now finishing CE & nearing completion with Halo 2 there's nothing I can complain about.
+My only real complaint in the Halo games is sometimes the AI can be brain dead, but that's about 15% of the time.",1601802683,1601802683,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,261,97,2464,155,2309,1601811446
+88,Halo The Master Chief Collection,77014653,english,Its Halo one of the best FPS franchises ever made and my personal favorite FPS series its worth the full price,1601802538,1601802538,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,180,43,377,377,251,1601863747
+89,Halo The Master Chief Collection,77013067,english,"buggy fucking mess and feels like its being run through three different games services all at once, but it lets me play halo with my bros without having to go back to using a controller to aim i guess",1601800016,1601800016,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,39,9,1848,293,1848,1601702558
+90,Halo The Master Chief Collection,77012884,english,"Everything I expected it to be, after playing a couple multiplayer games upon release and now finishing CE & nearing completion with Halo 2 there's nothing I can complain about.
 
 I loved the fact that the weapon tuning wasn't changed for the games, CE had that broken pistol we're used to.
 Additionally it was amazing to see the changes between the titles, the quality of life improvements from title to
 title were noticeable but not necessarily groundbreaking.
 
-I'll keep on playing the game(s) and will appreciate more and more the option of seeing the old graphics!",1601799708,1601799708,True,0,0,0,0,True,False,False,76561198067439194,189,1,1202,833,1202,1601797162
-91,59181582,english,Certified hood classic.,1575419060,1601798267,True,0,0,0,0,True,False,False,76561198059026686,234,8,956,0,956,1594847762
-92,77011003,english,"The absolute best multiplayer experience, now on PC.
-Halo 3 multiplayer is amazing, if you havent played it yet, play it now.",1601796518,1601796518,True,0,0,0,0,True,False,False,76561198037789297,135,2,1238,816,1197,1601830456
-93,77010878,english,It's fuckin' Halo... need I say more? Fuckin' love this shit. Having all of them at my disposal? Fuckin' brilliant. Fuck this game is great.,1601796298,1601796298,True,0,0,0,0,True,False,False,76561198026899072,106,5,2283,1101,2174,1601848443
-94,77010288,english,good game,1601795212,1601795212,True,0,0,0,0,True,False,False,76561198041058649,161,8,768,215,619,1601870393
-95,77009822,english,"Great game. Glad the PC port included Reach and ODST, unlike the console edition.
-",1601794413,1601794413,True,0,0,0,0,True,False,False,76561198210414245,11,2,672,672,291,1601871974
-96,77008876,english,nastolgia at its best,1601792624,1601792624,True,0,0,0,0,True,False,False,76561197960654268,56,3,363,363,363,1601787510
-97,77008505,english,POGGGERRRSS!!!!!!!!,1601791865,1601791865,True,0,0,0,0,True,False,False,76561198156115740,210,19,1059,1059,813,1601872013
-98,77007778,english,pretty good,1601790656,1601790656,True,0,0,0,0,True,False,False,76561198283044045,69,3,1402,434,1353,1601793569
-99,68575991,english,"It's good, it's halo what did you expect?",1588625799,1601790573,True,0,0,0,0,True,False,False,76561198100926580,31,30,4377,200,4261,1601837350
-0,77006936,english,"this is the game to play if you want to have fun with yout friemds 
-",1601789129,1601789129,True,1,0,0.523809552192687988,0,True,False,False,76561198138331115,53,3,1457.0,213.0,1445,1601789465.0
-1,77005982,english,"Quite a lot of game for not much money. The greats of the original trilogy plus the decent of the other three.
+I'll keep on playing the game(s) and will appreciate more and more the option of seeing the old graphics!",1601799708,1601799708,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,189,1,1202,833,1202,1601797162
+91,Halo The Master Chief Collection,59181582,english,Certified hood classic.,1575419060,1601798267,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,234,8,956,0,956,1594847762
+92,Halo The Master Chief Collection,77011003,english,"The absolute best multiplayer experience, now on PC.
+Halo 3 multiplayer is amazing, if you havent played it yet, play it now.",1601796518,1601796518,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,135,2,1238,816,1197,1601830456
+93,Halo The Master Chief Collection,77010878,english,It's fuckin' Halo... need I say more? Fuckin' love this shit. Having all of them at my disposal? Fuckin' brilliant. Fuck this game is great.,1601796298,1601796298,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,106,5,2283,1101,2174,1601848443
+94,Halo The Master Chief Collection,77010288,english,good game,1601795212,1601795212,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,161,8,768,215,619,1601870393
+95,Halo The Master Chief Collection,77009822,english,"Great game. Glad the PC port included Reach and ODST, unlike the console edition.
+",1601794413,1601794413,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,11,2,672,672,291,1601871974
+96,Halo The Master Chief Collection,77008876,english,nastolgia at its best,1601792624,1601792624,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,56,3,363,363,363,1601787510
+97,Halo The Master Chief Collection,77008505,english,POGGGERRRSS!!!!!!!!,1601791865,1601791865,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,210,19,1059,1059,813,1601872013
+98,Halo The Master Chief Collection,77007778,english,pretty good,1601790656,1601790656,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,69,3,1402,434,1353,1601793569
+99,Halo The Master Chief Collection,68575991,english,"It's good, it's halo what did you expect?",1588625799,1601790573,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,31,30,4377,200,4261,1601837350
+0,Halo The Master Chief Collection,77006936,english,"this is the game to play if you want to have fun with yout friemds 
+",1601789129,1601789129,TRUE,1,0,0.523809552,0,TRUE,FALSE,FALSE,7.65612E+16,53,3,1457,213,1445,1601789465
+1,Halo The Master Chief Collection,77005982,english,"Quite a lot of game for not much money. The greats of the original trilogy plus the decent of the other three.
 
-The mixing of remaster and non-remastered looks is quite odd, the Halo CE ""Anniversary"" looking like garbage even/especially (not sure which) for 2011, (Left in in classic mode the entire time, older style looks better) Halo 2 anniversary mostly looking pretty good, and the 360 natives looking as-original and aged fairly well.",1601787203,1601787203,True,0,0,0,0,True,False,False,76561198044203917,169,50,1305.0,684.0,1305,1601786970.0
-2,77005050,english,awesome series and lots of good memories,1601785537,1601785537,True,0,0,0,0,True,False,False,76561198159710954,51,1,1704.0,735.0,1090,1601866017.0
-3,77004275,english,Just as fun as playing all the games on xbox but on pc,1601784164,1601784164,True,0,0,0,0,True,False,False,76561198092584569,118,4,2077.0,1310.0,2048,1601868833.0
-4,63921425,english,"Okay I can't take this anymore.  Having a big mountain of blurry blur dumped on my screen with no way to turn it off is the worst consolitis ever.   If I wanted to simulate what macular degeneration feels like I'd shove a hot fork in my eye, not play a game where you can't turn off blurry junk like AA",1582364069,1601783457,False,0,0,0,0,True,False,False,76561197974842571,193,70,2107.0,138.0,2107,1601783335.0
-5,77003911,english,"halo muy bueno
-",1601783455,1601783455,True,0,0,0,0,True,False,False,76561198152992770,59,1,2250.0,1852.0,1754,1602043117.0
-6,77003707,english,in love with it want to marry it,1601783054,1601783054,True,0,0,0,0,True,False,False,76561198080739979,127,7,4717.0,1755.0,4528,1602036525.0
-7,61717122,english,Changed to positive.  Game was rough and still is in some areas.  Improvements are coming steadily though.  Waiting for input based matchmaking though because the multiplayer right now is about as much fun as a colonoscopy.,1578793800,1601782325,True,0,0,0.476558208465576172,0,True,False,False,76561198004177439,255,18,12176.0,848.0,11990,1601934715.0
-8,77002662,english,"reguardless of what they say, it's nice to have Halo back.",1601781295,1601781295,True,0,0,0,0,True,False,False,76561198009520987,121,32,4457.0,4457.0,4302,1601822377.0
-9,77002535,english,"big dicks, small children
+The mixing of remaster and non-remastered looks is quite odd, the Halo CE ""Anniversary"" looking like garbage even/especially (not sure which) for 2011, (Left in in classic mode the entire time, older style looks better) Halo 2 anniversary mostly looking pretty good, and the 360 natives looking as-original and aged fairly well.",1601787203,1601787203,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,169,50,1305,684,1305,1601786970
+2,Halo The Master Chief Collection,77005050,english,awesome series and lots of good memories,1601785537,1601785537,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,51,1,1704,735,1090,1601866017
+3,Halo The Master Chief Collection,77004275,english,Just as fun as playing all the games on xbox but on pc,1601784164,1601784164,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,118,4,2077,1310,2048,1601868833
+4,Halo The Master Chief Collection,63921425,english,"Okay I can't take this anymore.  Having a big mountain of blurry blur dumped on my screen with no way to turn it off is the worst consolitis ever.   If I wanted to simulate what macular degeneration feels like I'd shove a hot fork in my eye, not play a game where you can't turn off blurry junk like AA",1582364069,1601783457,FALSE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,193,70,2107,138,2107,1601783335
+5,Halo The Master Chief Collection,77003911,english,"halo muy bueno
+",1601783455,1601783455,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,59,1,2250,1852,1754,1602043117
+6,Halo The Master Chief Collection,77003707,english,in love with it want to marry it,1601783054,1601783054,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,127,7,4717,1755,4528,1602036525
+7,Halo The Master Chief Collection,61717122,english,Changed to positive.  Game was rough and still is in some areas.  Improvements are coming steadily though.  Waiting for input based matchmaking though because the multiplayer right now is about as much fun as a colonoscopy.,1578793800,1601782325,TRUE,0,0,0.476558208,0,TRUE,FALSE,FALSE,7.65612E+16,255,18,12176,848,11990,1601934715
+8,Halo The Master Chief Collection,77002662,english,"reguardless of what they say, it's nice to have Halo back.",1601781295,1601781295,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,121,32,4457,4457,4302,1601822377
+9,Halo The Master Chief Collection,77002535,english,"big dicks, small children
 
 
 
-",1601781082,1601781082,True,0,0,0,0,True,False,False,76561198024911018,22,1,1022.0,0.0,1022,1600322220.0
-10,77002311,english,IS GOOD,1601780706,1601780706,True,0,0,0,0,True,False,False,76561198292896962,12,2,1246.0,670.0,1114,1602020234.0
-11,77002209,english,shoot,1601780546,1601780546,True,0,0,0,0,True,False,False,76561198417674047,28,17,490.0,490.0,405,1601890920.0
-12,77001961,english,Wonderful just like it was,1601780125,1601780125,True,0,0,0,0,True,False,False,76561199032292401,6,3,1535.0,271.0,1409,1601828353.0
-13,77000771,english,,1601777905,1601777905,True,0,0,0,0,True,False,False,76561198046841229,307,9,180.0,72.0,180,1601777896.0
-14,59539834,english,"Review at 17.6 hrs: reach kinda sucks but it'll be good when halo 2 comes out
+",1601781082,1601781082,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,22,1,1022,0,1022,1600322220
+10,Halo The Master Chief Collection,77002311,english,IS GOOD,1601780706,1601780706,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,12,2,1246,670,1114,1602020234
+11,Halo The Master Chief Collection,77002209,english,shoot,1601780546,1601780546,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,28,17,490,490,405,1601890920
+12,Halo The Master Chief Collection,77001961,english,Wonderful just like it was,1601780125,1601780125,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,6,3,1535,271,1409,1601828353
+13,Halo The Master Chief Collection,77000771,english,,1601777905,1601777905,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,307,9,180,72,180,1601777896
+14,Halo The Master Chief Collection,59539834,english,"Review at 17.6 hrs: reach kinda sucks but it'll be good when halo 2 comes out
 
-Current Review: halo 2 is out",1575867400,1601777662,True,0,0,0.476190477609634399,0,True,False,False,76561198058692990,953,17,8956.0,111.0,8956,1601777439.0
-15,77000628,english,Havent been this happy since 2007,1601777643,1601777643,True,0,0,0,0,True,False,False,76561198083887126,158,4,3863.0,1279.0,3863,1601777540.0
-16,77000621,english,"having the whole collection on steam is convenient, but you do have to make a microsoft account to play the games",1601777629,1601777629,True,0,0,0,0,True,False,False,76561198329060308,49,1,448.0,448.0,448,1601773142.0
-17,77000553,english,"not cross platform. for those trying to play with their friends, youre out of luck if theyre on another type of 'device.' unlike call of duty and how blizzard has things going. ive tried to put in similar reviews only to be rejected. im just being honest for gods sakes... waste of time being honest.",1601777514,1601777514,False,0,2,0.476190477609634399,0,True,False,False,76561197961278644,95,32,486.0,110.0,486,1601669428.0
-18,77000331,english,"Worth it.
-Just waiting on Halo 4. So much nostalgia for a great price.",1601777098,1601777098,True,0,0,0,0,True,False,False,76561198121300892,219,51,3218.0,0.0,3218,1600818586.0
-19,70342763,english,"**It would seem if you have slow internet the game simply will not work, after upgrading my net it works just fine, since 343 clearly want to make the MCC worth my money I'm willing to change my review to positive and admit I was wrong**
+Current Review: halo 2 is out",1575867400,1601777662,TRUE,0,0,0.476190478,0,TRUE,FALSE,FALSE,7.65612E+16,953,17,8956,111,8956,1601777439
+15,Halo The Master Chief Collection,77000628,english,Havent been this happy since 2007,1601777643,1601777643,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,158,4,3863,1279,3863,1601777540
+16,Halo The Master Chief Collection,77000621,english,"having the whole collection on steam is convenient, but you do have to make a microsoft account to play the games",1601777629,1601777629,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,49,1,448,448,448,1601773142
+17,Halo The Master Chief Collection,77000553,english,"not cross platform. for those trying to play with their friends, youre out of luck if theyre on another type of 'device.' unlike call of duty and how blizzard has things going. ive tried to put in similar reviews only to be rejected. im just being honest for gods sakes... waste of time being honest.",1601777514,1601777514,FALSE,0,2,0.476190478,0,TRUE,FALSE,FALSE,7.65612E+16,95,32,486,110,486,1601669428
+18,Halo The Master Chief Collection,77000331,english,"Worth it.
+Just waiting on Halo 4. So much nostalgia for a great price.",1601777098,1601777098,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,219,51,3218,0,3218,1600818586
+19,Halo The Master Chief Collection,70342763,english,"**It would seem if you have slow internet the game simply will not work, after upgrading my net it works just fine, since 343 clearly want to make the MCC worth my money I'm willing to change my review to positive and admit I was wrong**
 
 
 
@@ -299,50 +299,50 @@ Just waiting on Halo 4. So much nostalgia for a great price.",1601777098,1601777
 Apart from that, these games are still great.
 
 
-If I was to write how much I love halo as a game (also its books, films, anime, lore etc) I'd be here all day, I've easily played Halo:CE more than any game I own on steam (and I've played a ton of H2, H3, H4, ODST, Reach, Halo Wars and the top down shooters)",1591377894,1601775648,True,0,0,0,0,True,False,False,76561198084014003,111,75,5448.0,745.0,5108,1601932281.0
-20,76999304,english,LONG time fan of this franchise. The rework of all the textures and graphics are wonderful. Plays just like the old days.,1601775278,1601775278,True,0,0,0,0,True,False,False,76561198259295454,7,2,849.0,674.0,780,1602037528.0
-21,76998417,english,like,1601773637,1601773637,True,0,0,0,1,True,True,False,76561198057234455,171,4,16882.0,1645.0,16451,1602050178.0
-22,76998186,english,It's always fun blowing up aliens with a tank,1601773168,1601773168,True,0,0,0,0,True,False,False,76561198144471513,279,10,1475.0,369.0,1415,1602050781.0
-23,76997826,english,Longtime Halo fan happy it's on PC,1601772515,1601772515,True,0,0,0,0,True,False,False,76561198025546374,22,1,4386.0,21.0,4382,1601772725.0
-24,76997673,english,Greatest feeling of nostalgia.,1601772225,1601772225,True,0,0,0,0,True,False,False,76561198158293154,417,8,1589.0,642.0,1589,1601701618.0
-25,76997090,english,They got a lot of fixing to do for playing with your friends. especially crossplay but i cant even get it to play between microsoft store and steam with my friends.,1601771126,1601771126,False,1,0,0,0,True,False,False,76561198064604420,19,1,235.0,235.0,115,1601777713.0
-26,76996632,english,Amazing Nostalgic port!!!!,1601770273,1601770273,True,0,0,0,0,True,False,False,76561198154278495,147,7,5471.0,451.0,5384,1601836141.0
-27,72983735,english,"This is great if you'd like to play custom games with friends or replay the campaigns but the hitreg is broken on every game that isn't Halo 2 Anniversary Multiplayer.
+If I was to write how much I love halo as a game (also its books, films, anime, lore etc) I'd be here all day, I've easily played Halo:CE more than any game I own on steam (and I've played a ton of H2, H3, H4, ODST, Reach, Halo Wars and the top down shooters)",1591377894,1601775648,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,111,75,5448,745,5108,1601932281
+20,Halo The Master Chief Collection,76999304,english,LONG time fan of this franchise. The rework of all the textures and graphics are wonderful. Plays just like the old days.,1601775278,1601775278,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,7,2,849,674,780,1602037528
+21,Halo The Master Chief Collection,76998417,english,like,1601773637,1601773637,TRUE,0,0,0,1,TRUE,TRUE,FALSE,7.65612E+16,171,4,16882,1645,16451,1602050178
+22,Halo The Master Chief Collection,76998186,english,It's always fun blowing up aliens with a tank,1601773168,1601773168,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,279,10,1475,369,1415,1602050781
+23,Halo The Master Chief Collection,76997826,english,Longtime Halo fan happy it's on PC,1601772515,1601772515,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,22,1,4386,21,4382,1601772725
+24,Halo The Master Chief Collection,76997673,english,Greatest feeling of nostalgia.,1601772225,1601772225,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,417,8,1589,642,1589,1601701618
+25,Halo The Master Chief Collection,76997090,english,They got a lot of fixing to do for playing with your friends. especially crossplay but i cant even get it to play between microsoft store and steam with my friends.,1601771126,1601771126,FALSE,1,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,19,1,235,235,115,1601777713
+26,Halo The Master Chief Collection,76996632,english,Amazing Nostalgic port!!!!,1601770273,1601770273,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,147,7,5471,451,5384,1601836141
+27,Halo The Master Chief Collection,72983735,english,"This is great if you'd like to play custom games with friends or replay the campaigns but the hitreg is broken on every game that isn't Halo 2 Anniversary Multiplayer.
 
 
 Edit:
-343 actually patched the hitreg for multiplayer and continues to update the game, especially welcome content like adding the ODST Magnum into Halo 3 MP.",1595220082,1601768267,True,0,0,0.514893651008605957,0,True,False,False,76561198013030862,290,2,2477.0,625.0,2357,1602045267.0
-28,76994368,english,nostalgia. its gud,1601766321,1601766321,True,0,0,0,0,True,False,False,76561198152252830,21,9,729.0,286.0,615,1601965598.0
-29,76993932,english,"Its Halo, just buy it.",1601765614,1601765614,True,0,0,0,0,True,False,False,76561198070677362,77,19,204.0,22.0,201,1601787412.0
-30,76993635,english,"Best game series ever to grace this earth, we are blessed to have it.
-Thank Bungie and 343.",1601765135,1601765135,True,0,0,0,0,True,False,False,76561198065643806,120,2,4968.0,2718.0,4968,1601311445.0
-31,76993292,english,"Can confirm, is halo",1601764584,1601764584,True,0,0,0,0,True,False,False,76561198090529601,46,2,5617.0,6.0,5617,1601480134.0
-32,76992924,english,"It's all of the best Halo games for PC, CE, 2, 3 and ODST with online coop ON STEAM. They even run amazing through Proton on Linux, if you don't mind launching without EAC w/ mod support.
+343 actually patched the hitreg for multiplayer and continues to update the game, especially welcome content like adding the ODST Magnum into Halo 3 MP.",1595220082,1601768267,TRUE,0,0,0.514893651,0,TRUE,FALSE,FALSE,7.65612E+16,290,2,2477,625,2357,1602045267
+28,Halo The Master Chief Collection,76994368,english,nostalgia. its gud,1601766321,1601766321,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,21,9,729,286,615,1601965598
+29,Halo The Master Chief Collection,76993932,english,"Its Halo, just buy it.",1601765614,1601765614,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,77,19,204,22,201,1601787412
+30,Halo The Master Chief Collection,76993635,english,"Best game series ever to grace this earth, we are blessed to have it.
+Thank Bungie and 343.",1601765135,1601765135,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,120,2,4968,2718,4968,1601311445
+31,Halo The Master Chief Collection,76993292,english,"Can confirm, is halo",1601764584,1601764584,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,46,2,5617,6,5617,1601480134
+32,Halo The Master Chief Collection,76992924,english,"It's all of the best Halo games for PC, CE, 2, 3 and ODST with online coop ON STEAM. They even run amazing through Proton on Linux, if you don't mind launching without EAC w/ mod support.
 
 CE's port is the jank gearbox port with the broken transparency and all of the various bugs they introduced. Halo 2 is still Halo 2 Vista with all of jank bugs it had like missing dual wielding elites and trees not rendering at all which modders fixed a decade ago which 343 still can't manage to fix. Halo 3 is really solid and ODST is as well. Reach still isn't fun and Halo 4 is a thing that is a game.
 
 It's Halo on PC and it's taken 343i 6 years of early access releases to the Xbox for them to get it into a working shape. If you want to specifically play Halo 2, go check out Project Cartographer. Otherwise, unless you want to play in 480p on an Xbox, this is what you're looking for.
 
-10/10 would preorder my favorite Halo games on Steam again.",1601763993,1601763993,True,0,0,0,0,True,False,False,76561197988320365,176,9,4020.0,759.0,4020,1601703331.0
-33,59178305,english,Halo 3 mp is extremely good but the anticheat barely works so keep that in mind,1575415206,1601763723,True,0,0,0,1,True,False,False,76561198044806705,579,99,2249.0,195.0,2192,1601845125.0
-34,76992468,english,:),1601763257,1601763257,True,0,0,0,0,True,False,False,76561198359786951,65,17,6093.0,1434.0,6032,1601853716.0
-35,76992388,english,Good,1601763133,1601763133,True,0,0,0,0,True,False,False,76561198007104682,223,20,9437.0,1273.0,9226,1602027707.0
-36,76992294,english,WWWAGGHHHHH AOOOOWWHHABBHAGABHH,1601763002,1601763002,True,1,0,0.519999980926513672,0,True,False,False,76561198223004848,48,5,3326.0,7.0,3319,1601826144.0
-37,76875135,english,Its all the good halo games for a decent price.... Nuf said,1601577861,1601762622,True,0,0,0,0,True,False,False,76561198271820210,118,12,1435.0,463.0,1331,1601827265.0
-38,76991858,english,its a reely fun game  *im lying this is the worst game that ever gamed* **that was also a lie** ***JK i dont even  know anymore*** it took away all my disk space. butt its funn,1601762294,1601762294,True,0,0,0,0,True,False,False,76561199094639022,1,1,1142.0,1142.0,655,1602024344.0
-39,76991279,english,i cried,1601761386,1601761386,False,0,0,0.474452555179595947,0,True,True,False,76561198219575395,70,6,2838.0,33.0,2838,1601761360.0
-40,76990324,english,Its good,1601759966,1601759966,True,0,0,0,0,True,False,False,76561198299737497,48,2,4961.0,1637.0,4932,1601937217.0
-41,76990276,english,"never was really a big fan of the multiplayer in halo games but the campaign is still amazing. The mcc is a fantastic deal, $40 dollars for endless fun.",1601759882,1601759882,True,0,0,0,0,True,False,False,76561198323065991,58,20,3211.0,655.0,2917,1602045890.0
-42,76989740,english,is fun,1601759116,1601759116,True,0,0,0,0,True,False,False,76561198423137263,22,1,2431.0,439.0,2164,1601775066.0
-43,76989312,english,A few bugs and glitches but for the most part it's a decent port of some very good games.,1601758550,1601758550,True,0,0,0,0,True,False,False,76561198132475552,28,1,5927.0,5507.0,3862,1602046376.0
-44,76989217,english,haha fuckin love halo baby,1601758414,1601758414,True,0,0,0,0,True,False,False,76561198028305324,205,1,1059.0,1059.0,1050,1601927130.0
-45,76988548,english,"yes.
+10/10 would preorder my favorite Halo games on Steam again.",1601763993,1601763993,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,176,9,4020,759,4020,1601703331
+33,Halo The Master Chief Collection,59178305,english,Halo 3 mp is extremely good but the anticheat barely works so keep that in mind,1575415206,1601763723,TRUE,0,0,0,1,TRUE,FALSE,FALSE,7.65612E+16,579,99,2249,195,2192,1601845125
+34,Halo The Master Chief Collection,76992468,english,:),1601763257,1601763257,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,65,17,6093,1434,6032,1601853716
+35,Halo The Master Chief Collection,76992388,english,Good,1601763133,1601763133,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,223,20,9437,1273,9226,1602027707
+36,Halo The Master Chief Collection,76992294,english,WWWAGGHHHHH AOOOOWWHHABBHAGABHH,1601763002,1601763002,TRUE,1,0,0.519999981,0,TRUE,FALSE,FALSE,7.65612E+16,48,5,3326,7,3319,1601826144
+37,Halo The Master Chief Collection,76875135,english,Its all the good halo games for a decent price.... Nuf said,1601577861,1601762622,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,118,12,1435,463,1331,1601827265
+38,Halo The Master Chief Collection,76991858,english,its a reely fun game  *im lying this is the worst game that ever gamed* **that was also a lie** ***JK i dont even  know anymore*** it took away all my disk space. butt its funn,1601762294,1601762294,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,1,1,1142,1142,655,1602024344
+39,Halo The Master Chief Collection,76991279,english,i cried,1601761386,1601761386,FALSE,0,0,0.474452555,0,TRUE,TRUE,FALSE,7.65612E+16,70,6,2838,33,2838,1601761360
+40,Halo The Master Chief Collection,76990324,english,Its good,1601759966,1601759966,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,48,2,4961,1637,4932,1601937217
+41,Halo The Master Chief Collection,76990276,english,"never was really a big fan of the multiplayer in halo games but the campaign is still amazing. The mcc is a fantastic deal, $40 dollars for endless fun.",1601759882,1601759882,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,58,20,3211,655,2917,1602045890
+42,Halo The Master Chief Collection,76989740,english,is fun,1601759116,1601759116,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,22,1,2431,439,2164,1601775066
+43,Halo The Master Chief Collection,76989312,english,A few bugs and glitches but for the most part it's a decent port of some very good games.,1601758550,1601758550,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,28,1,5927,5507,3862,1602046376
+44,Halo The Master Chief Collection,76989217,english,haha fuckin love halo baby,1601758414,1601758414,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,205,1,1059,1059,1050,1601927130
+45,Halo The Master Chief Collection,76988548,english,"yes.
 
-",1601757460,1601757460,True,0,0,0,0,True,False,False,76561198134778483,32,1,771.0,21.0,771,1601756767.0
-46,76988257,english,Old times,1601757058,1601757058,True,0,0,0,0,True,False,False,76561198380264947,21,3,850.0,79.0,770,1601769374.0
-47,76988025,english,fun,1601756755,1601756755,True,0,0,0,0,True,False,False,76561198175719197,31,2,5153.0,718.0,4693,1601931794.0
-48,76986586,english,"This compilation is an absolute must-buy for anyone who can run it. Five, soon six amazing games all in one package, with all sorts of content crammed in for the price of one. As more and more updates roll out, the games within only get better. My Steam playtime is a disservice to the hours I poured into it on Xbox. Buy it, Remember Reach, Prepare to Drop, and Finish the Fight!",1601754819,1601754819,True,0,0,0,0,True,False,False,76561198044353348,113,18,3413.0,1249.0,3413,1601701862.0
-49,69211133,english,"11/10.
+",1601757460,1601757460,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,32,1,771,21,771,1601756767
+46,Halo The Master Chief Collection,76988257,english,Old times,1601757058,1601757058,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,21,3,850,79,770,1601769374
+47,Halo The Master Chief Collection,76988025,english,fun,1601756755,1601756755,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,31,2,5153,718,4693,1601931794
+48,Halo The Master Chief Collection,76986586,english,"This compilation is an absolute must-buy for anyone who can run it. Five, soon six amazing games all in one package, with all sorts of content crammed in for the price of one. As more and more updates roll out, the games within only get better. My Steam playtime is a disservice to the hours I poured into it on Xbox. Buy it, Remember Reach, Prepare to Drop, and Finish the Fight!",1601754819,1601754819,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,113,18,3413,1249,3413,1601701862
+49,Halo The Master Chief Collection,69211133,english,"11/10.
 
 Only £30 for 6 full campaigns, with brilliant multiplayers. As well as 2 complete remasters. 
 
@@ -351,84 +351,84 @@ Halo 2: 6/10
 Halo 3: 9/10
 Halo ODST: 7/10
 Halo Reach: 8/10
-Halo 4: 10/10",1589597933,1601753970,True,0,0,0,0,True,False,False,76561198190835627,167,20,6009.0,1292.0,5510,1602007719.0
-50,76984696,english,It's Halo - Do you like Halo?,1601752416,1601752416,True,0,0,0,0,True,False,False,76561198005178153,91,1,404.0,404.0,193,1601819654.0
-51,76984525,english,Feels good to be home. :'),1601752191,1601752191,True,0,0,0,0,True,False,False,76561198138318298,111,6,2104.0,73.0,2033,1601756166.0
-52,76984477,english,I can't believe they took out split-screen local co-op from a game that is known for their split-screen,1601752117,1601752117,False,1,0,0.476190477609634399,0,True,False,False,76561198194475283,121,7,2006.0,24.0,2006,1601618354.0
-53,76984404,english,"Awesome to be able to play the orignal games once again, well worth the buy!
-Also never noticed Virgil Guides you through the entire Halo ODST Story... Now I know",1601752007,1601752007,True,0,0,0,0,True,False,False,76561198084898632,113,3,4725.0,375.0,4394,1601771475.0
-54,76983677,english,Halo: ODST trash :/,1601750999,1601750999,False,0,0,0.476190477609634399,0,True,False,False,76561197988624434,96,3,2060.0,41.0,2060,1601749279.0
-55,76982166,english,"Good old Halo, thank you Microsoft and 343 for such a gift. Always felt jelous to xbox players for having such nice exclusive game xD Now, sorry I've to go, time to catch up on story!",1601749110,1601749110,True,0,0,0,0,True,False,False,76561198010747386,221,1,1499.0,292.0,1499,1601485064.0
-56,76981786,english,"alien go pew
-",1601748611,1601748611,True,0,0,0,0,True,False,False,76561198880464980,83,15,454.0,25.0,429,1601757569.0
-57,69591952,english,"still a big pile of ""what could have been""
+Halo 4: 10/10",1589597933,1601753970,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,167,20,6009,1292,5510,1602007719
+50,Halo The Master Chief Collection,76984696,english,It's Halo - Do you like Halo?,1601752416,1601752416,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,91,1,404,404,193,1601819654
+51,Halo The Master Chief Collection,76984525,english,Feels good to be home. :'),1601752191,1601752191,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,111,6,2104,73,2033,1601756166
+52,Halo The Master Chief Collection,76984477,english,I can't believe they took out split-screen local co-op from a game that is known for their split-screen,1601752117,1601752117,FALSE,1,0,0.476190478,0,TRUE,FALSE,FALSE,7.65612E+16,121,7,2006,24,2006,1601618354
+53,Halo The Master Chief Collection,76984404,english,"Awesome to be able to play the orignal games once again, well worth the buy!
+Also never noticed Virgil Guides you through the entire Halo ODST Story... Now I know",1601752007,1601752007,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,113,3,4725,375,4394,1601771475
+54,Halo The Master Chief Collection,76983677,english,Halo: ODST trash :/,1601750999,1601750999,FALSE,0,0,0.476190478,0,TRUE,FALSE,FALSE,7.65612E+16,96,3,2060,41,2060,1601749279
+55,Halo The Master Chief Collection,76982166,english,"Good old Halo, thank you Microsoft and 343 for such a gift. Always felt jelous to xbox players for having such nice exclusive game xD Now, sorry I've to go, time to catch up on story!",1601749110,1601749110,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,221,1,1499,292,1499,1601485064
+56,Halo The Master Chief Collection,76981786,english,"alien go pew
+",1601748611,1601748611,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,83,15,454,25,429,1601757569
+57,Halo The Master Chief Collection,69591952,english,"still a big pile of ""what could have been""
 
-and still has a shit ton of problems",1590137515,1601747666,False,1,0,0.442028999328613281,0,True,False,False,76561198074404652,372,16,20626.0,1481.0,20399,1601858323.0
-58,76981045,english,"Nice port. Easy onetime login is Live. High FPS, decent graphics. Multiplayer is full.
-It's a good games for collection.",1601747620,1601747620,True,0,0,0,0,True,False,False,76561197996377483,93,5,428.0,428.0,428,1601747384.0
-59,76978952,english,Just some good ol' Halo,1601744993,1601744993,True,0,0,0,0,True,False,False,76561198121327244,410,7,896.0,212.0,737,1601953785.0
-60,76977905,english,"I know hardly nothing about halo, and I'm not good at it. but damn is it fun with friends.",1601743703,1601743703,True,0,0,0,0,True,False,False,76561198074101289,71,8,726.0,526.0,726,1601743476.0
-61,76977757,english,This game has massive nostalgia for me and lots of good memories so the fact that I can easily boot it up on my pc and play it again even though I no longer have the xbox I used to play it on means a lot to me.,1601743516,1601743516,True,0,0,0,0,True,False,False,76561198856336042,26,1,493.0,149.0,344,1601960292.0
-62,76977751,english,Halo Sucks.,1601743513,1601743513,True,0,0,0,0,True,False,False,76561198044233357,486,12,1461.0,2.0,1458,1601743655.0
-63,76977566,english,yeah its halo.. whats not to like?,1601743287,1601743287,True,0,0,0,0,True,False,False,76561197971778013,12,2,586.0,586.0,586,1601622858.0
-64,76976782,english,"It's Halo on PC. It's not perfect, but it's good enough if you don't have an Xbox.",1601742262,1601742262,True,0,0,0,0,True,False,False,76561198118016433,127,7,9201.0,1471.0,9164,1601914756.0
-65,76976689,english,"I played Halo CE when it first came out on PC - just ONCE - and I considered it to be merely an improvement over Quake 2. (Given how much of the game reputation is due to Multi-Player, that's fair).
+and still has a shit ton of problems",1590137515,1601747666,FALSE,1,0,0.442028999,0,TRUE,FALSE,FALSE,7.65612E+16,372,16,20626,1481,20399,1601858323
+58,Halo The Master Chief Collection,76981045,english,"Nice port. Easy onetime login is Live. High FPS, decent graphics. Multiplayer is full.
+It's a good games for collection.",1601747620,1601747620,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,93,5,428,428,428,1601747384
+59,Halo The Master Chief Collection,76978952,english,Just some good ol' Halo,1601744993,1601744993,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,410,7,896,212,737,1601953785
+60,Halo The Master Chief Collection,76977905,english,"I know hardly nothing about halo, and I'm not good at it. but damn is it fun with friends.",1601743703,1601743703,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,71,8,726,526,726,1601743476
+61,Halo The Master Chief Collection,76977757,english,This game has massive nostalgia for me and lots of good memories so the fact that I can easily boot it up on my pc and play it again even though I no longer have the xbox I used to play it on means a lot to me.,1601743516,1601743516,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,26,1,493,149,344,1601960292
+62,Halo The Master Chief Collection,76977751,english,Halo Sucks.,1601743513,1601743513,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,486,12,1461,2,1458,1601743655
+63,Halo The Master Chief Collection,76977566,english,yeah its halo.. whats not to like?,1601743287,1601743287,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,12,2,586,586,586,1601622858
+64,Halo The Master Chief Collection,76976782,english,"It's Halo on PC. It's not perfect, but it's good enough if you don't have an Xbox.",1601742262,1601742262,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,127,7,9201,1471,9164,1601914756
+65,Halo The Master Chief Collection,76976689,english,"I played Halo CE when it first came out on PC - just ONCE - and I considered it to be merely an improvement over Quake 2. (Given how much of the game reputation is due to Multi-Player, that's fair).
 
 THIRTEEN SEASONS OF *RED VS BLUE* LATER
 
-I bought it without a blink of an eye.",1601742145,1601742145,True,0,0,0,0,True,False,False,76561198041889733,579,63,760.0,0.0,760,1589830787.0
-66,76976169,english,Best thing 343 has done with the series.,1601741537,1601741537,True,0,0,0,0,True,False,False,76561198502104409,112,3,828.0,192.0,828,1601305042.0
-67,76976069,english,its really good,1601741422,1601741422,True,0,0,0,0,True,False,False,76561198930949113,4,3,6502.0,1676.0,6268,1601781445.0
-68,76975224,english,i love halo. halo my childhood,1601740408,1601740408,True,0,1,0.523809552192687988,0,True,False,False,76561198255009875,26,2,541.0,541.0,541,1601732854.0
-69,59185276,english,Halo at its best.,1575424041,1601740318,True,0,0,0,0,True,False,False,76561198197472894,82,4,11081.0,197.0,11022,1602041793.0
-70,76974462,english,Hehe brain go brr 🙈,1601739430,1601739430,True,0,0,0,0,True,False,False,76561198799418335,27,1,4897.0,2622.0,4006,1602049269.0
-71,76974329,english,Great story and just a great FPS :),1601739283,1601739283,True,0,0,0,0,True,False,False,76561198131590870,20,1,2262.0,566.0,1696,1602014789.0
-72,76973144,english,"it hab amazing plot and gmaing is too epic
+I bought it without a blink of an eye.",1601742145,1601742145,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,579,63,760,0,760,1589830787
+66,Halo The Master Chief Collection,76976169,english,Best thing 343 has done with the series.,1601741537,1601741537,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,112,3,828,192,828,1601305042
+67,Halo The Master Chief Collection,76976069,english,its really good,1601741422,1601741422,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,4,3,6502,1676,6268,1601781445
+68,Halo The Master Chief Collection,76975224,english,i love halo. halo my childhood,1601740408,1601740408,TRUE,0,1,0.523809552,0,TRUE,FALSE,FALSE,7.65612E+16,26,2,541,541,541,1601732854
+69,Halo The Master Chief Collection,59185276,english,Halo at its best.,1575424041,1601740318,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,82,4,11081,197,11022,1602041793
+70,Halo The Master Chief Collection,76974462,english,Hehe brain go brr 🙈,1601739430,1601739430,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,27,1,4897,2622,4006,1602049269
+71,Halo The Master Chief Collection,76974329,english,Great story and just a great FPS :),1601739283,1601739283,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,20,1,2262,566,1696,1602014789
+72,Halo The Master Chief Collection,76973144,english,"it hab amazing plot and gmaing is too epic
 definitlety go and buy
-",1601737824,1601737824,True,0,0,0,0,True,False,False,76561199042546894,20,3,2710.0,2710.0,2074,1601977057.0
-73,72286018,english,ye its alright,1594200755,1601737771,True,0,0,0,0,True,False,False,76561198083939553,50,27,2731.0,329.0,2727,1602050325.0
-74,76972125,english,"halo is my first fps game, this game is so freaking awesome and 4K, i remember went my buy buy me xbox 360 and halo 2 game, i can't wait for halo 6",1601736557,1601736557,True,0,0,0,0,True,False,False,76561199079671137,4,1,491.0,491.0,319,1601798725.0
-75,76972113,english,"Me and my friend have been having a good time completing the story together, 10/10 would recommend.",1601736547,1601736547,True,0,0,0,0,True,False,False,76561198250088248,172,9,3696.0,327.0,3696,1601736359.0
-76,76971029,english,good game,1601735201,1601735201,True,0,0,0,0,True,False,False,76561198929387907,9,1,1197.0,209.0,1151,1602039345.0
-77,76970759,english,Yes. You get to play as The Master Chief. What else is there to know?,1601734904,1601734904,True,0,0,0.489218324422836304,0,True,False,False,76561197966022113,163,1,3028.0,313.0,3028,1601692754.0
-78,76970695,english,Halo 3 makes it worthwhile alone.,1601734829,1601734829,True,0,0,0,0,True,False,False,76561198102884493,129,4,924.0,191.0,820,1601854469.0
-79,76969968,english,"Great value, great game play. Missions are diverse and enjoyable",1601733894,1601733894,True,0,0,0,0,True,False,False,76561198118528104,61,7,2523.0,795.0,2523,1601231665.0
-80,76969287,english,"I mean, ya gotta play Halo at least once right? And oh boy that price is a bargain for sure!",1601733014,1601733014,True,0,0,0,0,True,False,False,76561198069409354,77,5,2293.0,1377.0,2049,1601881475.0
-81,76969053,english,"Honestly, this is among the best Halo experience I've had in a long time. My first game was Reach on the 360, then CE Anniversary, then 4, then 3. I have never played 2 and ODST, except through this. Gameplay is the same as we remember, and the controls are tight. I did remap some of them, primarily my grenade button, but that's a personal preference. The best part on PC is that you can pick and choose which games you want. My only gripe is that I have to install all of the games and components one at a time, but it's well worth the $45. If you are a fan of Halo, this game is for you.",1601732723,1601732723,True,0,0,0,0,True,False,False,76561198880524411,20,1,,,332,
-82,76967803,english,"So happy been able to play again this game on my PC... One of my favourate games of all time. Highly recommended to everyone, a must played game.",1601731099,1601731099,True,0,0,0,0,True,False,False,76561198819793578,8,1,625.0,625.0,403,1602005140.0
-83,76967793,english,"Well put together and fun to play. 343 are gradually fixing bugs and releasing new stuff. Looking forward to the server browser, cross-platform play, mods and Halo 4. 
+",1601737824,1601737824,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,20,3,2710,2710,2074,1601977057
+73,Halo The Master Chief Collection,72286018,english,ye its alright,1594200755,1601737771,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,50,27,2731,329,2727,1602050325
+74,Halo The Master Chief Collection,76972125,english,"halo is my first fps game, this game is so freaking awesome and 4K, i remember went my buy buy me xbox 360 and halo 2 game, i can't wait for halo 6",1601736557,1601736557,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,4,1,491,491,319,1601798725
+75,Halo The Master Chief Collection,76972113,english,"Me and my friend have been having a good time completing the story together, 10/10 would recommend.",1601736547,1601736547,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,172,9,3696,327,3696,1601736359
+76,Halo The Master Chief Collection,76971029,english,good game,1601735201,1601735201,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,9,1,1197,209,1151,1602039345
+77,Halo The Master Chief Collection,76970759,english,Yes. You get to play as The Master Chief. What else is there to know?,1601734904,1601734904,TRUE,0,0,0.489218324,0,TRUE,FALSE,FALSE,7.65612E+16,163,1,3028,313,3028,1601692754
+78,Halo The Master Chief Collection,76970695,english,Halo 3 makes it worthwhile alone.,1601734829,1601734829,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,129,4,924,191,820,1601854469
+79,Halo The Master Chief Collection,76969968,english,"Great value, great game play. Missions are diverse and enjoyable",1601733894,1601733894,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,61,7,2523,795,2523,1601231665
+80,Halo The Master Chief Collection,76969287,english,"I mean, ya gotta play Halo at least once right? And oh boy that price is a bargain for sure!",1601733014,1601733014,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,77,5,2293,1377,2049,1601881475
+81,Halo The Master Chief Collection,76969053,english,"Honestly, this is among the best Halo experience I've had in a long time. My first game was Reach on the 360, then CE Anniversary, then 4, then 3. I have never played 2 and ODST, except through this. Gameplay is the same as we remember, and the controls are tight. I did remap some of them, primarily my grenade button, but that's a personal preference. The best part on PC is that you can pick and choose which games you want. My only gripe is that I have to install all of the games and components one at a time, but it's well worth the $45. If you are a fan of Halo, this game is for you.",1601732723,1601732723,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,20,1,,,332,
+82,Halo The Master Chief Collection,76967803,english,"So happy been able to play again this game on my PC... One of my favourate games of all time. Highly recommended to everyone, a must played game.",1601731099,1601731099,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,8,1,625,625,403,1602005140
+83,Halo The Master Chief Collection,76967793,english,"Well put together and fun to play. 343 are gradually fixing bugs and releasing new stuff. Looking forward to the server browser, cross-platform play, mods and Halo 4. 
 
-Once those things arrive, together with a proper community, I can see it lasting years.",1601731091,1601731091,True,0,0,0,0,True,False,False,76561198066542163,99,1,2506.0,798.0,2441,1601913161.0
-84,76967568,english,Its Halo. Of course its good.,1601730782,1601730782,True,0,0,0,0,True,False,False,76561198063688666,19,1,10759.0,895.0,10412,1601936297.0
-85,76964886,english,"Oh the nostalgic feeling.
+Once those things arrive, together with a proper community, I can see it lasting years.",1601731091,1601731091,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,99,1,2506,798,2441,1601913161
+84,Halo The Master Chief Collection,76967568,english,Its Halo. Of course its good.,1601730782,1601730782,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,19,1,10759,895,10412,1601936297
+85,Halo The Master Chief Collection,76964886,english,"Oh the nostalgic feeling.
 Halo is just as fun when you're an adult as when you were a kid.
 Epic fights on large to small scale, awesome scenes, beautiful art/graphics, a compelling and fun story.
-A must have for everyone who loves this series.",1601727313,1601727313,True,0,0,0,0,True,False,False,76561198048248635,243,3,5481.0,642.0,5392,1601765265.0
-86,76962665,english,big throwback,1601724127,1601724127,True,0,0,0,0,True,False,False,76561198868095600,9,2,2811.0,945.0,2811,1601680893.0
-87,76961534,english,"ten years ago i played halo 3 and halo reach with my best friend 
+A must have for everyone who loves this series.",1601727313,1601727313,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,243,3,5481,642,5392,1601765265
+86,Halo The Master Chief Collection,76962665,english,big throwback,1601724127,1601724127,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,9,2,2811,945,2811,1601680893
+87,Halo The Master Chief Collection,76961534,english,"ten years ago i played halo 3 and halo reach with my best friend 
 and now we are still playing im adult now its insane but the nostalga is amazing 
 (343 i forgive you for chaning the artstyle in the latest games, because bungie woudn't have done this.) 
-",1601722419,1601722419,True,0,0,0,0,True,False,False,76561198125557220,48,9,3817.0,1590.0,2590,1602022663.0
-88,76959845,english,good,1601719885,1601719885,True,0,0,0,0,True,False,False,76561198166719574,111,18,1864.0,1864.0,1526,1601990330.0
-89,76959638,english,"my favorite shooter, PC has really taken Halo to the next level. 5/5",1601719512,1601719512,True,0,0,0,0,True,False,False,76561199093581677,1,1,1125.0,1125.0,434,1602052268.0
-90,76959420,english,S++++++++++++++,1601719154,1601719154,True,0,0,0,0,True,False,False,76561197976283636,749,23,9.0,9.0,9,1601568934.0
-91,76959186,english,a really good game both multi player and single player,1601718803,1601718803,True,0,0,0,0,True,False,False,76561198023887833,130,13,378.0,1.0,378,1601718777.0
-92,59275705,english,Good.,1575547406,1601718760,True,2,0,0.545454561710357666,0,True,False,False,76561198992587372,8,3,2401.0,0.0,2401,1596593410.0
-93,64574972,english,"Great value for money and worth it for the excellent campaigns alone.
+",1601722419,1601722419,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,48,9,3817,1590,2590,1602022663
+88,Halo The Master Chief Collection,76959845,english,good,1601719885,1601719885,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,111,18,1864,1864,1526,1601990330
+89,Halo The Master Chief Collection,76959638,english,"my favorite shooter, PC has really taken Halo to the next level. 5/5",1601719512,1601719512,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,1,1,1125,1125,434,1602052268
+90,Halo The Master Chief Collection,76959420,english,S++++++++++++++,1601719154,1601719154,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,749,23,9,9,9,1601568934
+91,Halo The Master Chief Collection,76959186,english,a really good game both multi player and single player,1601718803,1601718803,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,130,13,378,1,378,1601718777
+92,Halo The Master Chief Collection,59275705,english,Good.,1575547406,1601718760,TRUE,2,0,0.545454562,0,TRUE,FALSE,FALSE,7.65612E+16,8,3,2401,0,2401,1596593410
+93,Halo The Master Chief Collection,64574972,english,"Great value for money and worth it for the excellent campaigns alone.
 
 The online multiplayer is terrible though. No server browser, huge waiting times in matchmaking, and the controller aim assist is through the roof.
 
-Hopefully this stuff will be improved, in the mean time get the original Halo for PC, patch it to 1.10 and enjoy a fully working server browser.",1583460896,1601718121,True,0,0,0,0,True,False,False,76561198001349099,41,8,20627.0,0.0,20627,1599233437.0
-94,76956414,english,play odst its the best halo game 4head,1601714392,1601714392,True,0,0,0,0,True,False,False,76561198068124010,148,6,1802.0,1802.0,892,1602049309.0
-95,76956190,english,favorite games from your childhood now in HD,1601714025,1601714025,True,0,0,0,0,True,False,False,76561198090295145,112,2,606.0,521.0,580,1601809509.0
-96,76955510,english,"The matchmaking sucks, the penalty for leaving a match sucks and the servers it chooses to connect you to sucks.
+Hopefully this stuff will be improved, in the mean time get the original Halo for PC, patch it to 1.10 and enjoy a fully working server browser.",1583460896,1601718121,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,41,8,20627,0,20627,1599233437
+94,Halo The Master Chief Collection,76956414,english,play odst its the best halo game 4head,1601714392,1601714392,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,148,6,1802,1802,892,1602049309
+95,Halo The Master Chief Collection,76956190,english,favorite games from your childhood now in HD,1601714025,1601714025,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,112,2,606,521,580,1601809509
+96,Halo The Master Chief Collection,76955510,english,"The matchmaking sucks, the penalty for leaving a match sucks and the servers it chooses to connect you to sucks.
 
-This game is a joke and should be priced as such",1601712934,1601712934,False,2,0,0.362318813800811768,0,True,False,False,76561198060357052,155,8,2756.0,378.0,2457,1601938183.0
-97,76954215,english,"5 games in 1. Its just the deal, especially for video game archaeological purpose.",1601710912,1601710912,True,0,0,0,0,True,False,False,76561197968550213,99,4,3981.0,1035.0,3725,1601859190.0
-98,76953916,english,"Dear 343 Industries, Splash Damage, Ruffian Games, Bungie and Saber Interactive,
+This game is a joke and should be priced as such",1601712934,1601712934,FALSE,2,0,0.362318814,0,TRUE,FALSE,FALSE,7.65612E+16,155,8,2756,378,2457,1601938183
+97,Halo The Master Chief Collection,76954215,english,"5 games in 1. Its just the deal, especially for video game archaeological purpose.",1601710912,1601710912,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,99,4,3981,1035,3725,1601859190
+98,Halo The Master Chief Collection,76953916,english,"Dear 343 Industries, Splash Damage, Ruffian Games, Bungie and Saber Interactive,
 
 i literaly love you for making a long dream come true and make me feel like i was a little kid again
 
 thank you so much for all of your work
-",1601710444,1601710444,True,0,0,0,0,True,False,False,76561198026527295,179,7,10612.0,2670.0,9018,1602004283.0
-99,76952097,english,Bring me back,1601707178,1601707178,True,0,0,0,0,True,False,False,76561198198764507,18,1,766.0,766.0,707,1602042958.0
+",1601710444,1601710444,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,179,7,10612,2670,9018,1602004283
+99,Halo The Master Chief Collection,76952097,english,Bring me back,1601707178,1601707178,TRUE,0,0,0,0,TRUE,FALSE,FALSE,7.65612E+16,18,1,766,766,707,1602042958
